@@ -1,0 +1,1072 @@
+state_fips,state,naics_2d,civ_noninst_pop_employed,civ_noninst_pop_employed_local,civ_noninst_pop_employed_immigrant,civ_noninst_pop_employed_central_america,civ_noninst_pop_employed_south_america,civ_noninst_pop_employed_mexico,count,count_local,count_immigrant,count_central_america,count_south_america,count_mexico,sector,short_sector
+01,Alabama,11,18459,17239,1220,177,17,785,1296,1228,68,11,3,33,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+01,Alabama,21,7583,7469,114,17,0,0,486,481,5,1,0,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+01,Alabama,22,29712,29185,527,14,0,248,1781,1766,15,1,1,4,Utilities,Utilities
+01,Alabama,23,134866,120200,14666,2894,282,10590,7083,6633,450,93,12,302,Construction,Construction
+01,Alabama,31,279277,261247,18030,3646,285,6543,15113,14372,741,107,19,259,Manufacturing,Manufacturing
+01,Alabama,42,47910,46440,1470,173,23,571,2634,2566,68,5,3,26,Wholesale Trade,Wholesale
+01,Alabama,44,219157,210932,8225,955,244,982,13067,12691,376,24,14,52,Retail Trade,Retail
+01,Alabama,48,78623,76730,1893,53,62,234,4453,4372,81,3,4,7,Transportation and Warehousing,Logistics
+01,Alabama,51,30210,29635,575,22,39,32,1703,1671,32,2,3,4,Information,Information
+01,Alabama,52,78355,75725,2630,48,95,600,4094,3992,102,3,7,18,Finance and Insurance,Finance
+01,Alabama,53,28071,27457,614,86,16,37,1522,1490,32,3,2,3,Real Estate and Rental and Leasing,Real Estate
+01,Alabama,54,107518,102571,4947,47,701,427,5828,5602,226,4,22,17,"Professional, Scientific, and Technical Services",Professional
+01,Alabama,55,1392,1392,0,0,0,0,70,70,0,0,0,0,Management of Companies and Enterprises,Management
+01,Alabama,56,79157,74345,4812,1091,127,2748,4496,4307,189,38,9,98,Administrative and Support and Waste Management and Remediation Services,Administrative
+01,Alabama,61,175788,168024,7764,97,406,603,10766,10368,398,12,24,23,Educational Services,Education
+01,Alabama,62,272107,264234,7873,259,391,845,15177,14779,398,14,16,40,Health Care and Social Assistance,Health Care
+01,Alabama,71,26600,25889,711,39,95,160,1816,1763,53,1,7,6,"Arts, Entertainment, and Recreation",Arts/Entertainment
+01,Alabama,72,146250,135558,10692,967,362,4412,8486,8048,438,38,16,157,Accommodation and Food Services,Hospitality
+01,Alabama,81,93814,87442,6372,521,291,1680,5526,5228,298,18,13,72,Other Services (except Public Administration),Other Services
+01,Alabama,92,105745,103828,1917,190,231,330,6161,6065,96,11,11,10,Public Administration,Public Administration
+01,Alabama,99,0,0,0,0,0,0,1207,1176,31,6,0,8,Industries not classified,Industries not classified
+02,Alaska,11,5184,4846,338,0,18,4,658,642,16,0,3,1,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+02,Alaska,21,9423,8774,649,0,31,57,534,505,29,0,2,2,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+02,Alaska,22,3865,3762,103,0,0,0,335,328,7,0,0,0,Utilities,Utilities
+02,Alaska,23,24098,23054,1044,16,0,157,1251,1216,35,1,0,6,Construction,Construction
+02,Alaska,31,13647,8419,5228,326,43,592,818,520,298,7,3,35,Manufacturing,Manufacturing
+02,Alaska,42,6403,5372,1031,207,7,5,241,212,29,1,1,1,Wholesale Trade,Wholesale
+02,Alaska,44,34942,31130,3812,0,373,268,1765,1609,156,1,5,8,Retail Trade,Retail
+02,Alaska,48,22944,20489,2455,44,109,52,1070,966,104,3,2,6,Transportation and Warehousing,Logistics
+02,Alaska,51,6813,6481,332,0,0,79,285,273,12,0,0,2,Information,Information
+02,Alaska,52,6263,5353,910,0,0,0,226,201,25,0,0,0,Finance and Insurance,Finance
+02,Alaska,53,3987,3593,394,26,0,69,213,199,14,1,0,1,Real Estate and Rental and Leasing,Real Estate
+02,Alaska,54,17251,16121,1130,27,82,71,677,632,45,1,2,2,"Professional, Scientific, and Technical Services",Professional
+02,Alaska,55,803,776,27,0,0,0,42,41,1,0,0,0,Management of Companies and Enterprises,Management
+02,Alaska,56,8140,7198,942,172,19,168,405,371,34,2,1,3,Administrative and Support and Waste Management and Remediation Services,Administrative
+02,Alaska,61,30802,28261,2541,29,213,99,1834,1730,104,2,8,6,Educational Services,Education
+02,Alaska,62,47624,41965,5659,67,283,206,2218,2048,170,1,5,5,Health Care and Social Assistance,Health Care
+02,Alaska,71,5462,5053,409,0,0,34,352,329,23,0,1,1,"Arts, Entertainment, and Recreation",Arts/Entertainment
+02,Alaska,72,24604,20085,4519,0,112,914,1088,958,130,0,3,23,Accommodation and Food Services,Hospitality
+02,Alaska,81,14132,12543,1589,47,22,212,719,670,49,2,3,3,Other Services (except Public Administration),Other Services
+02,Alaska,92,39810,37264,2546,0,38,113,2524,2444,80,0,1,2,Public Administration,Public Administration
+02,Alaska,99,0,0,0,0,0,0,155,149,6,0,0,0,Industries not classified,Industries not classified
+04,Arizona,11,25832,13690,12142,650,10,11309,1635,1020,615,39,1,553,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+04,Arizona,21,13998,12512,1486,6,143,956,860,780,80,1,5,48,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+04,Arizona,22,28825,25857,2968,93,0,1562,1614,1486,128,5,0,63,Utilities,Utilities
+04,Arizona,23,210944,149105,61839,3037,556,53707,10548,8237,2311,103,22,1924,Construction,Construction
+04,Arizona,31,203407,158948,44459,1745,605,22416,11104,8960,2144,70,38,946,Manufacturing,Manufacturing
+04,Arizona,42,66495,54934,11561,549,320,7082,3609,3038,571,21,15,321,Wholesale Trade,Wholesale
+04,Arizona,44,342064,297719,44345,1712,793,24433,18815,16619,2196,77,41,1094,Retail Trade,Retail
+04,Arizona,48,129908,107601,22307,1023,403,12711,7065,5999,1066,61,22,541,Transportation and Warehousing,Logistics
+04,Arizona,51,54486,49043,5443,14,246,2489,2956,2695,261,1,15,100,Information,Information
+04,Arizona,52,181504,160692,20812,845,771,6903,9245,8260,985,41,47,312,Finance and Insurance,Finance
+04,Arizona,53,65936,57528,8408,273,96,4311,3723,3285,438,12,8,191,Real Estate and Rental and Leasing,Real Estate
+04,Arizona,54,182059,157653,24406,304,833,4925,10265,8983,1282,17,50,251,"Professional, Scientific, and Technical Services",Professional
+04,Arizona,55,4190,3714,476,19,0,289,220,198,22,1,0,11,Management of Companies and Enterprises,Management
+04,Arizona,56,175206,123529,51677,2495,817,41886,8992,6936,2056,94,39,1583,Administrative and Support and Waste Management and Remediation Services,Administrative
+04,Arizona,61,258562,224619,33943,709,1385,13824,16049,14170,1879,44,78,717,Educational Services,Education
+04,Arizona,62,380210,322636,57574,1371,1769,22748,20756,17925,2831,70,94,1040,Health Care and Social Assistance,Health Care
+04,Arizona,71,72701,63845,8856,292,204,4756,4449,4037,412,11,11,195,"Arts, Entertainment, and Recreation",Arts/Entertainment
+04,Arizona,72,257215,206628,50587,1820,841,33830,13929,11712,2217,77,41,1330,Accommodation and Food Services,Hospitality
+04,Arizona,81,139814,107285,32529,1032,606,20269,7530,6042,1488,52,34,801,Other Services (except Public Administration),Other Services
+04,Arizona,92,141558,129644,11914,494,276,6434,8538,7898,640,22,19,303,Public Administration,Public Administration
+04,Arizona,99,0,0,0,0,0,0,1874,1659,215,9,2,127,Industries not classified,Industries not classified
+05,Arkansas,11,28797,25986,2811,228,55,2016,1903,1769,134,12,3,88,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+05,Arkansas,21,5459,4968,491,57,0,264,353,339,14,1,0,9,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+05,Arkansas,22,13816,13505,311,28,61,163,825,809,16,1,2,6,Utilities,Utilities
+05,Arkansas,23,84314,72159,12155,2790,75,8865,4410,4059,351,70,3,258,Construction,Construction
+05,Arkansas,31,169678,145693,23985,5067,385,12399,9555,8681,874,161,10,449,Manufacturing,Manufacturing
+05,Arkansas,42,28043,26627,1416,361,41,370,1552,1481,71,14,3,25,Wholesale Trade,Wholesale
+05,Arkansas,44,159651,150171,9480,1454,258,3386,9061,8685,376,54,17,114,Retail Trade,Retail
+05,Arkansas,48,57533,55263,2270,610,0,686,3207,3123,84,17,0,29,Transportation and Warehousing,Logistics
+05,Arkansas,51,18231,17610,621,110,54,139,998,965,33,3,4,10,Information,Information
+05,Arkansas,52,40209,38930,1279,133,0,499,2158,2099,59,4,0,22,Finance and Insurance,Finance
+05,Arkansas,53,14882,14573,309,11,20,137,796,779,17,1,1,8,Real Estate and Rental and Leasing,Real Estate
+05,Arkansas,54,46338,42909,3429,116,185,487,2536,2372,164,7,8,19,"Professional, Scientific, and Technical Services",Professional
+05,Arkansas,55,1833,1777,56,10,33,0,93,89,4,1,2,0,Management of Companies and Enterprises,Management
+05,Arkansas,56,42016,37061,4955,803,54,2850,2394,2217,177,31,2,108,Administrative and Support and Waste Management and Remediation Services,Administrative
+05,Arkansas,61,115413,110741,4672,398,327,853,7131,6873,258,20,22,51,Educational Services,Education
+05,Arkansas,62,185150,178512,6638,625,62,1565,10066,9759,307,28,8,73,Health Care and Social Assistance,Health Care
+05,Arkansas,71,15167,14504,663,31,75,260,1053,1015,38,2,6,10,"Arts, Entertainment, and Recreation",Arts/Entertainment
+05,Arkansas,72,85255,77163,8092,1318,91,4139,5046,4721,325,49,7,144,Accommodation and Food Services,Hospitality
+05,Arkansas,81,55030,49614,5416,962,100,2127,3160,2967,193,26,6,73,Other Services (except Public Administration),Other Services
+05,Arkansas,92,54840,53354,1486,118,11,400,3201,3154,47,7,1,11,Public Administration,Public Administration
+05,Arkansas,99,0,0,0,0,0,0,552,543,9,1,0,5,Industries not classified,Industries not classified
+06,California,11,368916,120466,248450,10954,955,226855,19577,7789,11788,525,54,10602,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+06,California,21,26279,21046,5233,221,167,2854,1413,1153,260,13,12,125,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+06,California,22,130495,105516,24979,1399,689,7781,7376,5938,1438,73,44,370,Utilities,Utilities
+06,California,23,1140391,666675,473716,71755,7913,315683,55653,35235,20418,2926,381,12822,Construction,Construction
+06,California,31,1552860,846110,706750,55824,13283,295840,85657,47459,38198,2755,742,14604,Manufacturing,Manufacturing
+06,California,42,495217,304049,191168,15737,4321,87823,26599,16302,10297,788,222,4391,Wholesale Trade,Wholesale
+06,California,44,1793484,1299261,494223,46100,12629,194938,99439,73322,26117,2214,689,9445,Retail Trade,Retail
+06,California,48,822229,512670,309559,40599,8643,121175,41436,26372,15064,1834,412,5653,Transportation and Warehousing,Logistics
+06,California,51,522845,392493,130352,5990,5615,17878,29861,22631,7230,297,290,883,Information,Information
+06,California,52,658127,482998,175129,9534,5580,27569,35945,26112,9833,501,304,1372,Finance and Insurance,Finance
+06,California,53,377336,273329,104007,9581,3873,34599,20424,14831,5593,456,199,1633,Real Estate and Rental and Leasing,Real Estate
+06,California,54,1533727,1061501,472226,12609,16144,44742,86289,60381,25908,661,858,2318,"Professional, Scientific, and Technical Services",Professional
+06,California,55,21320,15868,5452,221,112,1001,1180,856,324,14,7,56,Management of Companies and Enterprises,Management
+06,California,56,838577,459035,379542,57483,8256,241099,43578,26065,17513,2499,408,10421,Administrative and Support and Waste Management and Remediation Services,Administrative
+06,California,61,1480120,1174209,305911,19976,12511,89788,91344,72475,18869,1159,764,4982,Educational Services,Education
+06,California,62,2166795,1455946,710849,53732,20308,172067,117057,78606,38451,2778,1092,8774,Health Care and Social Assistance,Health Care
+06,California,71,472612,380375,92237,5733,3081,30429,28460,23315,5145,282,172,1491,"Arts, Entertainment, and Recreation",Arts/Entertainment
+06,California,72,1411780,871983,539797,60722,10608,288927,74432,48703,25729,2627,558,12233,Accommodation and Food Services,Hospitality
+06,California,81,903149,526872,376277,56577,10123,160980,49006,29777,19229,2621,549,7395,Other Services (except Public Administration),Other Services
+06,California,92,781153,627809,153344,10678,4458,39492,44634,35854,8780,575,235,2123,Public Administration,Public Administration
+06,California,99,0,0,0,0,0,0,11720,8600,3120,314,62,1319,Industries not classified,Industries not classified
+08,Colorado,11,32135,26367,5768,426,41,4382,2470,2215,255,10,4,201,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+08,Colorado,21,29895,27370,2525,144,162,1402,1772,1654,118,6,5,63,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+08,Colorado,22,22928,21639,1289,96,41,282,1354,1293,61,4,4,11,Utilities,Utilities
+08,Colorado,23,223526,171900,51626,4427,1199,41164,10785,9153,1632,123,36,1219,Construction,Construction
+08,Colorado,31,182024,153458,28566,1696,944,11992,9752,8530,1222,45,36,437,Manufacturing,Manufacturing
+08,Colorado,42,65192,57575,7617,454,268,3561,3541,3210,331,13,13,144,Wholesale Trade,Wholesale
+08,Colorado,44,282308,256494,25814,941,900,10376,15689,14466,1223,39,48,369,Retail Trade,Retail
+08,Colorado,48,105808,91853,13955,544,495,4640,5543,4938,605,24,26,175,Transportation and Warehousing,Logistics
+08,Colorado,51,78102,71022,7080,112,359,1178,4359,4013,346,6,19,48,Information,Information
+08,Colorado,52,128420,118097,10323,209,685,2507,6876,6387,489,13,31,91,Finance and Insurance,Finance
+08,Colorado,53,59963,54926,5037,297,267,1363,3287,3049,238,10,15,46,Real Estate and Rental and Leasing,Real Estate
+08,Colorado,54,263763,239164,24599,551,1252,2311,15035,13716,1319,24,74,97,"Professional, Scientific, and Technical Services",Professional
+08,Colorado,55,4154,3669,485,0,13,272,211,195,16,0,1,3,Management of Companies and Enterprises,Management
+08,Colorado,56,120446,96311,24135,1664,712,15985,6534,5620,914,56,30,556,Administrative and Support and Waste Management and Remediation Services,Administrative
+08,Colorado,61,240879,220422,20457,499,1583,5206,14923,13751,1172,32,83,215,Educational Services,Education
+08,Colorado,62,334428,300528,33900,1432,1818,9870,18280,16732,1548,59,84,365,Health Care and Social Assistance,Health Care
+08,Colorado,71,71862,66625,5237,339,371,1804,4481,4247,234,12,15,56,"Arts, Entertainment, and Recreation",Arts/Entertainment
+08,Colorado,72,228256,190250,38006,2751,1188,20105,11668,10163,1505,79,51,688,Accommodation and Food Services,Hospitality
+08,Colorado,81,130474,114141,16333,710,625,6667,7388,6654,734,30,28,250,Other Services (except Public Administration),Other Services
+08,Colorado,92,129849,122863,6986,407,451,2028,7521,7174,347,17,22,72,Public Administration,Public Administration
+08,Colorado,99,0,0,0,0,0,0,745,672,73,6,5,29,Industries not classified,Industries not classified
+09,Connecticut,11,5640,4921,719,222,90,259,385,352,33,7,4,8,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+09,Connecticut,21,1303,958,345,45,186,0,77,64,13,1,4,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+09,Connecticut,22,11888,10931,957,15,189,56,695,645,50,1,8,2,Utilities,Utilities
+09,Connecticut,23,103432,75102,28330,4749,9706,3114,5222,4200,1022,139,279,107,Construction,Construction
+09,Connecticut,31,170593,136565,34028,1559,5278,1348,9286,7581,1705,58,238,54,Manufacturing,Manufacturing
+09,Connecticut,42,39888,34480,5408,196,799,240,2217,1946,271,8,46,10,Wholesale Trade,Wholesale
+09,Connecticut,44,174518,146381,28137,1736,5037,1328,9683,8425,1258,63,194,47,Retail Trade,Retail
+09,Connecticut,48,57204,46169,11035,675,2007,549,2935,2443,492,22,75,17,Transportation and Warehousing,Logistics
+09,Connecticut,51,36430,32340,4090,61,546,97,2230,2000,230,2,31,4,Information,Information
+09,Connecticut,52,125239,105185,20054,216,2040,191,7254,6131,1123,12,102,13,Finance and Insurance,Finance
+09,Connecticut,53,26005,22772,3233,138,887,86,1493,1310,183,9,37,5,Real Estate and Rental and Leasing,Real Estate
+09,Connecticut,54,121274,100050,21224,230,1890,210,7319,6145,1174,13,98,11,"Professional, Scientific, and Technical Services",Professional
+09,Connecticut,55,3234,2658,576,0,28,39,194,158,36,0,2,2,Management of Companies and Enterprises,Management
+09,Connecticut,56,68491,47708,20783,4205,7578,2845,3626,2795,831,147,266,100,Administrative and Support and Waste Management and Remediation Services,Administrative
+09,Connecticut,61,181135,158806,22329,572,3355,339,11386,10058,1328,31,154,18,Educational Services,Education
+09,Connecticut,62,262278,215541,46737,1632,6420,871,13905,11670,2235,62,305,40,Health Care and Social Assistance,Health Care
+09,Connecticut,71,45249,38411,6838,239,1425,340,3134,2821,313,10,55,15,"Arts, Entertainment, and Recreation",Arts/Entertainment
+09,Connecticut,72,104170,80141,24029,2890,4833,5001,6009,4931,1078,105,194,143,Accommodation and Food Services,Hospitality
+09,Connecticut,81,77060,58733,18327,2056,5402,1179,4295,3476,819,64,226,46,Other Services (except Public Administration),Other Services
+09,Connecticut,92,61687,56151,5536,98,841,48,3439,3161,278,6,44,4,Public Administration,Public Administration
+09,Connecticut,99,0,0,0,0,0,0,928,776,152,10,29,8,Industries not classified,Industries not classified
+10,Delaware,11,4203,2787,1416,428,63,610,216,160,56,8,3,27,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+10,Delaware,21,203,203,0,0,0,0,14,14,0,0,0,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+10,Delaware,22,3624,3326,298,16,16,8,199,188,11,1,1,1,Utilities,Utilities
+10,Delaware,23,29804,25529,4275,976,339,2230,1448,1291,157,36,16,68,Construction,Construction
+10,Delaware,31,32867,26343,6524,897,321,1455,1754,1500,254,36,17,42,Manufacturing,Manufacturing
+10,Delaware,42,8529,7680,849,189,51,396,425,389,36,4,3,17,Wholesale Trade,Wholesale
+10,Delaware,44,47213,42429,4784,260,612,827,2548,2354,194,13,22,24,Retail Trade,Retail
+10,Delaware,48,18854,16797,2057,97,91,318,947,870,77,2,4,10,Transportation and Warehousing,Logistics
+10,Delaware,51,5980,5678,302,0,8,17,331,312,19,0,1,1,Information,Information
+10,Delaware,52,33885,27896,5989,232,117,312,1698,1448,250,6,7,9,Finance and Insurance,Finance
+10,Delaware,53,6519,6065,454,24,0,15,373,345,28,1,0,1,Real Estate and Rental and Leasing,Real Estate
+10,Delaware,54,24572,21080,3492,27,106,242,1471,1288,183,2,8,9,"Professional, Scientific, and Technical Services",Professional
+10,Delaware,55,365,365,0,0,0,0,29,29,0,0,0,0,Management of Companies and Enterprises,Management
+10,Delaware,56,17706,14599,3107,412,208,1833,947,815,132,23,7,66,Administrative and Support and Waste Management and Remediation Services,Administrative
+10,Delaware,61,40061,36361,3700,273,152,274,2314,2111,203,13,10,10,Educational Services,Education
+10,Delaware,62,65840,58087,7753,209,362,503,3283,2957,326,10,23,20,Health Care and Social Assistance,Health Care
+10,Delaware,71,8387,7378,1009,19,37,340,550,513,37,1,2,8,"Arts, Entertainment, and Recreation",Arts/Entertainment
+10,Delaware,72,31302,26169,5133,401,273,1528,1784,1569,215,17,14,61,Accommodation and Food Services,Hospitality
+10,Delaware,81,16235,14654,1581,82,123,419,921,834,87,6,8,16,Other Services (except Public Administration),Other Services
+10,Delaware,92,22338,21362,976,17,0,80,1288,1231,57,2,1,7,Public Administration,Public Administration
+10,Delaware,99,0,0,0,0,0,0,179,162,17,1,1,4,Industries not classified,Industries not classified
+11,District of Columbia,11,490,423,67,0,13,0,30,26,4,0,2,0,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+11,District of Columbia,21,67,27,40,0,0,0,4,3,1,0,0,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+11,District of Columbia,22,1212,1149,63,0,0,0,73,68,5,0,0,0,Utilities,Utilities
+11,District of Columbia,23,9447,5851,3596,2184,74,450,454,340,114,55,4,7,Construction,Construction
+11,District of Columbia,31,4427,3610,817,26,86,0,281,234,47,2,3,1,Manufacturing,Manufacturing
+11,District of Columbia,42,1846,1548,298,0,0,0,110,94,16,0,0,0,Wholesale Trade,Wholesale
+11,District of Columbia,44,15077,13206,1871,620,36,0,1054,940,114,22,6,1,Retail Trade,Retail
+11,District of Columbia,48,9660,8462,1198,239,54,30,487,422,65,8,2,2,Transportation and Warehousing,Logistics
+11,District of Columbia,51,12555,10749,1806,92,99,77,753,664,89,4,8,4,Information,Information
+11,District of Columbia,52,14748,11558,3190,271,729,146,749,596,153,13,30,7,Finance and Insurance,Finance
+11,District of Columbia,53,9187,7691,1496,698,151,0,449,399,50,12,4,0,Real Estate and Rental and Leasing,Real Estate
+11,District of Columbia,54,69520,59547,9973,550,940,221,4059,3532,527,22,52,9,"Professional, Scientific, and Technical Services",Professional
+11,District of Columbia,55,440,421,19,0,0,0,29,27,2,0,0,0,Management of Companies and Enterprises,Management
+11,District of Columbia,56,13775,10671,3104,1848,107,112,765,633,132,59,6,7,Administrative and Support and Waste Management and Remediation Services,Administrative
+11,District of Columbia,61,35078,30066,5012,197,718,125,2175,1866,309,17,34,8,Educational Services,Education
+11,District of Columbia,62,32287,26569,5718,483,321,171,1789,1509,280,17,20,9,Health Care and Social Assistance,Health Care
+11,District of Columbia,71,10148,8534,1614,199,187,0,725,641,84,5,9,0,"Arts, Entertainment, and Recreation",Arts/Entertainment
+11,District of Columbia,72,24797,16857,7940,3576,291,594,1410,1073,337,115,25,27,Accommodation and Food Services,Hospitality
+11,District of Columbia,81,32117,26282,5835,877,879,247,1921,1634,287,37,40,13,Other Services (except Public Administration),Other Services
+11,District of Columbia,92,58426,49809,8617,443,999,650,3333,2917,416,21,50,17,Public Administration,Public Administration
+11,District of Columbia,99,0,0,0,0,0,0,227,197,30,2,1,1,Industries not classified,Industries not classified
+12,Florida,11,78867,40068,38799,7724,1479,22907,4210,2405,1805,274,85,1052,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+12,Florida,21,7208,5724,1484,157,365,169,484,407,77,6,20,5,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+12,Florida,22,66472,54547,11925,882,1854,723,3808,3217,591,34,94,29,Utilities,Utilities
+12,Florida,23,697025,445728,251297,55510,44795,51008,33073,23750,9323,1702,1760,1621,Construction,Construction
+12,Florida,31,433191,312262,120929,10226,26814,8063,24430,18457,5973,455,1315,362,Manufacturing,Manufacturing
+12,Florida,42,230205,162241,67964,7591,20374,4117,12499,9096,3403,323,1053,176,Wholesale Trade,Wholesale
+12,Florida,44,1090668,839580,251088,19350,52577,12057,57278,45720,11558,899,2490,489,Retail Trade,Retail
+12,Florida,48,435699,289149,146550,10035,32543,3649,21639,15359,6280,441,1446,137,Transportation and Warehousing,Logistics
+12,Florida,51,158077,121119,36958,1791,11029,1440,8916,7068,1848,84,554,68,Information,Information
+12,Florida,52,429789,336385,93404,6525,24326,2468,23572,18881,4691,315,1245,105,Finance and Insurance,Finance
+12,Florida,53,238799,171945,66854,4809,20691,2294,13383,10053,3330,226,1019,104,Real Estate and Rental and Leasing,Real Estate
+12,Florida,54,601555,465533,136022,6761,40121,3356,35185,27917,7268,334,1984,176,"Professional, Scientific, and Technical Services",Professional
+12,Florida,55,9236,7200,2036,205,465,143,552,445,107,10,25,3,Management of Companies and Enterprises,Management
+12,Florida,56,536210,366279,169931,32740,33950,21369,27227,20018,7209,1149,1567,753,Administrative and Support and Waste Management and Remediation Services,Administrative
+12,Florida,61,669402,540471,128931,8860,25585,3763,40532,33464,7068,411,1428,213,Educational Services,Education
+12,Florida,62,1188770,865910,322860,17331,47998,7748,62637,47550,15087,815,2419,349,Health Care and Social Assistance,Health Care
+12,Florida,71,270959,218713,52246,4577,12009,3035,14763,12345,2418,173,570,116,"Arts, Entertainment, and Recreation",Arts/Entertainment
+12,Florida,72,845494,608676,236818,24484,44278,21298,42608,32630,9978,953,1974,767,Accommodation and Food Services,Hospitality
+12,Florida,81,456831,300593,156238,20781,33403,8869,24365,17276,7089,841,1554,350,Other Services (except Public Administration),Other Services
+12,Florida,92,380952,331715,49237,3411,7991,1665,22863,20212,2651,181,460,72,Public Administration,Public Administration
+12,Florida,99,0,0,0,0,0,0,4889,3756,1133,102,185,56,Industries not classified,Industries not classified
+13,Georgia,11,43156,33118,10038,1373,149,7379,2786,2336,450,48,9,337,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+13,Georgia,21,5326,4890,436,14,0,200,347,330,17,1,0,6,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+13,Georgia,22,42448,39718,2730,350,276,399,2368,2246,122,9,11,19,Utilities,Utilities
+13,Georgia,23,310294,222296,87998,18506,4918,52106,15061,12182,2879,591,180,1574,Construction,Construction
+13,Georgia,31,479563,400199,79364,8247,4397,29453,25386,21838,3548,302,220,1154,Manufacturing,Manufacturing
+13,Georgia,42,127227,109432,17795,1386,1618,3712,6612,5806,806,52,72,153,Wholesale Trade,Wholesale
+13,Georgia,44,504699,444764,59935,3562,3672,8648,27768,24862,2906,156,195,402,Retail Trade,Retail
+13,Georgia,48,262501,230271,32230,2160,2552,3726,12641,11354,1287,74,106,133,Transportation and Warehousing,Logistics
+13,Georgia,51,110039,96415,13624,448,1130,1025,5872,5226,646,21,52,41,Information,Information
+13,Georgia,52,194360,171942,22418,858,1817,1711,10372,9325,1047,43,97,64,Finance and Insurance,Finance
+13,Georgia,53,87336,78201,9135,658,1064,1390,4701,4231,470,31,65,55,Real Estate and Rental and Leasing,Real Estate
+13,Georgia,54,332933,277506,55427,973,3911,2393,18460,15714,2746,46,205,124,"Professional, Scientific, and Technical Services",Professional
+13,Georgia,55,6191,5598,593,19,0,55,342,304,38,2,1,3,Management of Companies and Enterprises,Management
+13,Georgia,56,224568,183129,41439,8020,3824,18063,11872,10206,1666,281,164,624,Administrative and Support and Waste Management and Remediation Services,Administrative
+13,Georgia,61,416562,380307,36255,1390,3107,2238,25041,22902,2139,72,191,118,Educational Services,Education
+13,Georgia,62,527389,470502,56887,2082,4100,4078,28308,25655,2653,100,204,200,Health Care and Social Assistance,Health Care
+13,Georgia,71,73155,66713,6442,261,587,960,4590,4269,321,11,30,40,"Arts, Entertainment, and Recreation",Arts/Entertainment
+13,Georgia,72,366135,308590,57545,4972,2944,21082,20118,17563,2555,199,149,782,Accommodation and Food Services,Hospitality
+13,Georgia,81,216257,175949,40308,3028,4324,8138,11910,10103,1807,129,177,323,Other Services (except Public Administration),Other Services
+13,Georgia,92,221784,209315,12469,678,974,1013,12453,11820,633,31,54,47,Public Administration,Public Administration
+13,Georgia,99,0,0,0,0,0,0,2496,2273,223,20,18,45,Industries not classified,Industries not classified
+15,Hawaii,11,7305,4559,2746,111,0,192,453,324,129,1,0,8,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+15,Hawaii,21,126,92,34,0,0,0,10,8,2,0,0,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+15,Hawaii,22,5727,5223,504,16,0,0,338,311,27,1,0,0,Utilities,Utilities
+15,Hawaii,23,49315,40519,8796,319,131,805,2699,2299,400,6,8,20,Construction,Construction
+15,Hawaii,31,16932,13306,3626,0,36,0,989,772,217,1,1,1,Manufacturing,Manufacturing
+15,Hawaii,42,13282,10989,2293,0,25,134,707,586,121,0,2,4,Wholesale Trade,Wholesale
+15,Hawaii,44,66905,50993,15912,79,238,187,3714,2916,798,3,14,13,Retail Trade,Retail
+15,Hawaii,48,32106,25554,6552,0,105,71,1818,1505,313,0,6,5,Transportation and Warehousing,Logistics
+15,Hawaii,51,9041,7959,1082,0,41,0,538,477,61,0,3,1,Information,Information
+15,Hawaii,52,20055,16569,3486,0,37,12,1133,941,192,0,3,1,Finance and Insurance,Finance
+15,Hawaii,53,19647,15333,4314,7,55,62,1009,819,190,1,2,4,Real Estate and Rental and Leasing,Real Estate
+15,Hawaii,54,31744,26899,4845,18,263,199,1773,1515,258,2,5,3,"Professional, Scientific, and Technical Services",Professional
+15,Hawaii,55,330,242,88,0,0,0,20,15,5,0,0,0,Management of Companies and Enterprises,Management
+15,Hawaii,56,30163,21546,8617,129,135,669,1688,1279,409,6,8,16,Administrative and Support and Waste Management and Remediation Services,Administrative
+15,Hawaii,61,55434,47358,8076,37,189,81,3580,3074,506,2,14,6,Educational Services,Education
+15,Hawaii,62,73513,56619,16894,131,188,212,4134,3289,845,5,14,8,Health Care and Social Assistance,Health Care
+15,Hawaii,71,14924,11999,2925,60,60,69,893,747,146,4,3,2,"Arts, Entertainment, and Recreation",Arts/Entertainment
+15,Hawaii,72,92921,61322,31599,0,234,901,4604,3206,1398,1,14,25,Accommodation and Food Services,Hospitality
+15,Hawaii,81,27439,20446,6993,0,179,145,1562,1186,376,0,8,7,Other Services (except Public Administration),Other Services
+15,Hawaii,92,54826,48884,5942,68,209,122,3036,2714,322,3,7,5,Public Administration,Public Administration
+15,Hawaii,99,0,0,0,0,0,0,261,213,48,0,0,0,Industries not classified,Industries not classified
+16,Idaho,11,31895,22002,9893,75,206,9396,2343,1915,428,6,10,390,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+16,Idaho,21,4395,4213,182,0,27,90,302,291,11,0,2,5,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+16,Idaho,22,6533,6240,293,0,0,148,396,385,11,0,0,3,Utilities,Utilities
+16,Idaho,23,55126,49983,5143,259,144,4141,3034,2873,161,8,3,123,Construction,Construction
+16,Idaho,31,74524,64125,10399,370,143,6592,3865,3491,374,9,11,213,Manufacturing,Manufacturing
+16,Idaho,42,20637,18951,1686,26,69,1365,1012,937,75,2,5,52,Wholesale Trade,Wholesale
+16,Idaho,44,87573,84154,3419,84,371,1339,4441,4299,142,4,6,53,Retail Trade,Retail
+16,Idaho,48,28897,27058,1839,42,43,1115,1498,1429,69,2,2,36,Transportation and Warehousing,Logistics
+16,Idaho,51,12415,11912,503,0,49,273,666,648,18,0,2,7,Information,Information
+16,Idaho,52,27619,26385,1234,0,86,532,1306,1261,45,0,3,14,Finance and Insurance,Finance
+16,Idaho,53,11820,11072,748,57,44,307,600,575,25,1,2,8,Real Estate and Rental and Leasing,Real Estate
+16,Idaho,54,41838,39949,1889,42,204,302,2190,2113,77,2,6,10,"Professional, Scientific, and Technical Services",Professional
+16,Idaho,55,230,230,0,0,0,0,16,16,0,0,0,0,Management of Companies and Enterprises,Management
+16,Idaho,56,31455,27785,3670,126,210,2665,1760,1622,138,4,13,88,Administrative and Support and Waste Management and Remediation Services,Administrative
+16,Idaho,61,66088,62689,3399,35,243,861,4046,3877,169,4,15,38,Educational Services,Education
+16,Idaho,62,99933,94671,5262,80,391,1699,5330,5102,228,5,12,71,Health Care and Social Assistance,Health Care
+16,Idaho,71,14732,14005,727,0,0,265,974,935,39,0,0,13,"Arts, Entertainment, and Recreation",Arts/Entertainment
+16,Idaho,72,56743,52359,4384,172,146,2474,3063,2857,206,6,5,97,Accommodation and Food Services,Hospitality
+16,Idaho,81,33334,31100,2234,26,212,1261,1883,1788,95,3,6,44,Other Services (except Public Administration),Other Services
+16,Idaho,92,37137,35386,1751,19,249,439,2118,2054,64,1,5,19,Public Administration,Public Administration
+16,Idaho,99,0,0,0,0,0,0,158,152,6,1,0,3,Industries not classified,Industries not classified
+17,Illinois,11,45424,42377,3047,91,0,2467,4080,3883,197,16,1,133,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+17,Illinois,21,10988,10480,508,52,17,189,831,810,21,1,1,7,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+17,Illinois,22,41424,38164,3260,74,78,994,2618,2462,156,4,6,39,Utilities,Utilities
+17,Illinois,23,323867,242150,81717,3791,2018,47287,18310,15297,3013,118,72,1558,Construction,Construction
+17,Illinois,31,681165,509704,171461,6429,5314,91783,38404,31203,7201,252,231,3479,Manufacturing,Manufacturing
+17,Illinois,42,176730,144565,32165,1188,954,15577,9766,8435,1331,44,42,571,Wholesale Trade,Wholesale
+17,Illinois,44,599147,517753,81394,1978,2738,30085,34392,30763,3629,89,124,1126,Retail Trade,Retail
+17,Illinois,48,352488,276697,75791,2547,2824,21889,17689,14809,2880,88,110,777,Transportation and Warehousing,Logistics
+17,Illinois,51,108698,96573,12125,389,472,2070,6106,5543,563,18,21,79,Information,Information
+17,Illinois,52,330807,287118,43689,798,1764,6413,18081,15997,2084,35,80,274,Finance and Insurance,Finance
+17,Illinois,53,94769,81570,13199,611,595,4612,4943,4316,627,24,28,165,Real Estate and Rental and Leasing,Real Estate
+17,Illinois,54,442324,366819,75505,1273,2242,6688,23672,20031,3641,55,128,311,"Professional, Scientific, and Technical Services",Professional
+17,Illinois,55,11283,9526,1757,90,46,314,608,521,87,2,4,17,Management of Companies and Enterprises,Management
+17,Illinois,56,244596,175119,69477,2936,1878,43947,13381,10619,2762,118,78,1626,Administrative and Support and Waste Management and Remediation Services,Administrative
+17,Illinois,61,545897,483023,62874,1395,3707,11436,33513,30177,3336,69,182,547,Educational Services,Education
+17,Illinois,62,806938,678426,128512,3209,4069,23743,44513,38756,5757,139,192,983,Health Care and Social Assistance,Health Care
+17,Illinois,71,121348,108051,13297,434,665,5896,7969,7278,691,21,34,254,"Arts, Entertainment, and Recreation",Arts/Entertainment
+17,Illinois,72,429108,323740,105368,4421,4431,64842,22814,18804,4010,149,181,2102,Accommodation and Food Services,Hospitality
+17,Illinois,81,270365,209417,60948,2671,2762,22241,15371,12769,2602,108,124,827,Other Services (except Public Administration),Other Services
+17,Illinois,92,212080,199865,12215,676,721,2842,12662,12055,607,32,29,138,Public Administration,Public Administration
+17,Illinois,99,0,0,0,0,0,0,3468,3079,389,18,13,141,Industries not classified,Industries not classified
+18,Indiana,11,31790,29656,2134,621,107,1170,2079,1986,93,16,5,56,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+18,Indiana,21,5891,5848,43,0,0,16,382,378,4,0,0,1,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+18,Indiana,22,24823,24082,741,39,96,31,1463,1437,26,1,5,4,Utilities,Utilities
+18,Indiana,23,187653,171515,16138,3120,459,10479,10355,9796,559,92,14,351,Construction,Construction
+18,Indiana,31,569898,521433,48465,3207,1495,21071,32666,30757,1909,139,70,790,Manufacturing,Manufacturing
+18,Indiana,42,75773,70963,4810,470,268,1833,4110,3933,177,15,12,59,Wholesale Trade,Wholesale
+18,Indiana,44,312182,296742,15440,513,451,4529,18561,17897,664,29,24,163,Retail Trade,Retail
+18,Indiana,48,142409,132249,10160,825,250,2461,7555,7201,354,23,15,87,Transportation and Warehousing,Logistics
+18,Indiana,51,43598,41740,1858,96,20,436,2529,2433,96,4,2,22,Information,Information
+18,Indiana,52,111871,107617,4254,31,211,735,5895,5712,183,4,9,31,Finance and Insurance,Finance
+18,Indiana,53,43427,41564,1863,79,12,452,2288,2211,77,2,4,18,Real Estate and Rental and Leasing,Real Estate
+18,Indiana,54,136559,127747,8812,208,231,757,7442,7015,427,8,18,39,"Professional, Scientific, and Technical Services",Professional
+18,Indiana,55,2267,2126,141,0,27,0,138,130,8,0,1,0,Management of Companies and Enterprises,Management
+18,Indiana,56,109995,100441,9554,1073,531,5801,6513,6114,399,36,20,216,Administrative and Support and Waste Management and Remediation Services,Administrative
+18,Indiana,61,272434,252250,20184,361,926,1741,16673,15578,1095,30,58,88,Educational Services,Education
+18,Indiana,62,419709,400276,19433,553,848,2589,23073,22220,853,28,34,127,Health Care and Social Assistance,Health Care
+18,Indiana,71,50691,48571,2120,39,185,364,3527,3405,122,3,6,25,"Arts, Entertainment, and Recreation",Arts/Entertainment
+18,Indiana,72,221542,202693,18849,1190,437,8920,13333,12492,841,40,22,341,Accommodation and Food Services,Hospitality
+18,Indiana,81,130008,121197,8811,527,121,2787,7648,7243,405,27,12,127,Other Services (except Public Administration),Other Services
+18,Indiana,92,101443,98827,2616,48,113,352,5762,5639,123,4,8,19,Public Administration,Public Administration
+18,Indiana,99,0,0,0,0,0,0,1230,1163,67,6,2,18,Industries not classified,Industries not classified
+19,Iowa,11,49798,45923,3875,908,75,2099,3517,3361,156,32,1,93,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+19,Iowa,21,2184,2119,65,0,0,28,154,150,4,0,0,2,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+19,Iowa,22,13383,12953,430,71,0,20,763,753,10,1,0,1,Utilities,Utilities
+19,Iowa,23,98943,92471,6472,849,31,4413,5797,5595,202,27,1,125,Construction,Construction
+19,Iowa,31,228720,200701,28019,2473,369,9180,12662,11835,827,80,8,284,Manufacturing,Manufacturing
+19,Iowa,42,42901,41284,1617,279,27,510,2472,2419,53,9,1,18,Wholesale Trade,Wholesale
+19,Iowa,44,167547,159996,7551,258,267,1878,9765,9477,288,11,5,58,Retail Trade,Retail
+19,Iowa,48,60106,56912,3194,135,92,667,3449,3345,104,4,2,17,Transportation and Warehousing,Logistics
+19,Iowa,51,24009,23382,627,37,0,142,1348,1324,24,2,0,7,Information,Information
+19,Iowa,52,103524,98077,5447,72,111,417,4852,4714,138,4,4,10,Finance and Insurance,Finance
+19,Iowa,53,15262,14710,552,43,0,52,741,717,24,2,0,3,Real Estate and Rental and Leasing,Real Estate
+19,Iowa,54,62578,58033,4545,122,193,469,3047,2904,143,3,7,16,"Professional, Scientific, and Technical Services",Professional
+19,Iowa,55,1173,1168,5,0,0,0,60,59,1,0,0,0,Management of Companies and Enterprises,Management
+19,Iowa,56,45834,41674,4160,346,15,1947,2638,2505,133,10,2,62,Administrative and Support and Waste Management and Remediation Services,Administrative
+19,Iowa,61,151230,142068,9162,383,638,657,8841,8415,426,20,26,37,Educational Services,Education
+19,Iowa,62,217655,206509,11146,277,229,1932,12155,11787,368,15,14,61,Health Care and Social Assistance,Health Care
+19,Iowa,71,24401,23194,1207,48,75,104,1631,1586,45,3,4,6,"Arts, Entertainment, and Recreation",Arts/Entertainment
+19,Iowa,72,90056,80898,9158,815,59,3730,4873,4563,310,25,7,95,Accommodation and Food Services,Hospitality
+19,Iowa,81,59561,56588,2973,144,26,869,3579,3458,121,7,1,29,Other Services (except Public Administration),Other Services
+19,Iowa,92,45643,44821,822,0,13,131,2760,2717,43,0,3,10,Public Administration,Public Administration
+19,Iowa,99,0,0,0,0,0,0,339,308,31,7,0,9,Industries not classified,Industries not classified
+20,Kansas,11,30833,27401,3432,387,0,2820,2545,2370,175,14,0,144,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+20,Kansas,21,7231,6488,743,0,0,696,548,527,21,0,0,20,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+20,Kansas,22,13451,13055,396,0,0,248,829,813,16,1,0,10,Utilities,Utilities
+20,Kansas,23,87895,72219,15676,2469,389,11745,4814,4335,479,74,8,351,Construction,Construction
+20,Kansas,31,170071,145299,24772,2559,433,10737,8913,8020,893,66,21,387,Manufacturing,Manufacturing
+20,Kansas,42,38415,35369,3046,310,34,1469,2073,1947,126,13,1,62,Wholesale Trade,Wholesale
+20,Kansas,44,138946,128994,9952,867,209,3359,7810,7374,436,28,13,147,Retail Trade,Retail
+20,Kansas,48,54763,50223,4540,419,51,1682,3174,2985,189,17,3,70,Transportation and Warehousing,Logistics
+20,Kansas,51,25637,23392,2245,46,88,497,1356,1273,83,1,2,14,Information,Information
+20,Kansas,52,63319,60526,2793,43,100,912,3211,3086,125,2,7,34,Finance and Insurance,Finance
+20,Kansas,53,17259,16335,924,5,57,540,906,863,43,2,8,18,Real Estate and Rental and Leasing,Real Estate
+20,Kansas,54,80723,73004,7719,119,249,865,3908,3584,324,5,10,37,"Professional, Scientific, and Technical Services",Professional
+20,Kansas,55,2031,1947,84,0,0,0,96,91,5,0,0,1,Management of Companies and Enterprises,Management
+20,Kansas,56,45785,38616,7169,938,354,4451,2466,2202,264,30,16,154,Administrative and Support and Waste Management and Remediation Services,Administrative
+20,Kansas,61,141905,132516,9389,488,915,1723,8448,8040,408,12,33,78,Educational Services,Education
+20,Kansas,62,188906,177139,11767,639,412,3221,10669,10168,501,23,23,141,Health Care and Social Assistance,Health Care
+20,Kansas,71,24288,23133,1155,31,253,325,1615,1553,62,1,9,14,"Arts, Entertainment, and Recreation",Arts/Entertainment
+20,Kansas,72,91660,77775,13885,1702,345,7073,4917,4418,499,44,16,254,Accommodation and Food Services,Hospitality
+20,Kansas,81,56144,50142,6002,276,183,2620,3351,3120,231,11,5,97,Other Services (except Public Administration),Other Services
+20,Kansas,92,61639,59292,2347,175,37,614,3527,3439,88,4,2,27,Public Administration,Public Administration
+20,Kansas,99,0,0,0,0,0,0,378,336,42,7,0,15,Industries not classified,Industries not classified
+21,Kentucky,11,25757,21283,4474,685,0,2884,1594,1446,148,19,1,92,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+21,Kentucky,21,11670,11526,144,16,0,49,866,856,10,1,0,2,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+21,Kentucky,22,19421,19243,178,0,0,64,1122,1108,14,0,0,3,Utilities,Utilities
+21,Kentucky,23,114223,106643,7580,1404,108,4482,6474,6206,268,49,9,134,Construction,Construction
+21,Kentucky,31,270705,250724,19981,2162,554,4080,14917,14151,766,65,23,134,Manufacturing,Manufacturing
+21,Kentucky,42,45951,43684,2267,453,131,117,2496,2393,103,10,10,10,Wholesale Trade,Wholesale
+21,Kentucky,44,218758,207703,11055,568,491,1448,12705,12245,460,20,23,48,Retail Trade,Retail
+21,Kentucky,48,99275,93024,6251,235,181,360,5349,5105,244,11,13,15,Transportation and Warehousing,Logistics
+21,Kentucky,51,28338,27487,851,0,46,119,1750,1707,43,0,5,5,Information,Information
+21,Kentucky,52,78330,75530,2800,25,138,35,4608,4461,147,1,10,3,Finance and Insurance,Finance
+21,Kentucky,53,22592,22021,571,0,28,195,1301,1270,31,0,2,7,Real Estate and Rental and Leasing,Real Estate
+21,Kentucky,54,83399,78533,4866,169,185,273,5134,4860,274,4,15,9,"Professional, Scientific, and Technical Services",Professional
+21,Kentucky,55,1792,1627,165,0,0,0,119,112,7,0,0,0,Management of Companies and Enterprises,Management
+21,Kentucky,56,71079,66654,4425,636,33,1922,4308,4129,179,23,5,64,Administrative and Support and Waste Management and Remediation Services,Administrative
+21,Kentucky,61,177909,168877,9032,315,536,309,11275,10746,529,15,40,17,Educational Services,Education
+21,Kentucky,62,265048,255286,9762,172,530,849,15359,14844,515,9,29,29,Health Care and Social Assistance,Health Care
+21,Kentucky,71,26492,25274,1218,182,123,374,1984,1924,60,5,4,13,"Arts, Entertainment, and Recreation",Arts/Entertainment
+21,Kentucky,72,139814,130286,9528,1068,257,3664,8245,7813,432,47,10,123,Accommodation and Food Services,Hospitality
+21,Kentucky,81,79994,74495,5499,328,203,1484,4818,4574,244,12,9,52,Other Services (except Public Administration),Other Services
+21,Kentucky,92,77176,76139,1037,78,73,14,4646,4575,71,6,5,2,Public Administration,Public Administration
+21,Kentucky,99,0,0,0,0,0,0,802,778,24,3,0,3,Industries not classified,Industries not classified
+22,Louisiana,11,19011,16156,2855,273,21,1327,1273,1105,168,13,2,82,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+22,Louisiana,21,53423,51992,1431,153,106,109,2853,2784,69,4,8,3,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+22,Louisiana,22,19962,19442,520,88,73,50,1073,1049,24,2,3,1,Utilities,Utilities
+22,Louisiana,23,158827,135972,22855,10958,1035,7494,7791,7086,705,312,38,210,Construction,Construction
+22,Louisiana,31,145054,138514,6540,985,497,1454,7686,7371,315,41,27,52,Manufacturing,Manufacturing
+22,Louisiana,42,48322,46472,1850,385,92,200,2494,2406,88,16,6,12,Wholesale Trade,Wholesale
+22,Louisiana,44,212506,204200,8306,1220,433,836,11307,10867,440,56,19,41,Retail Trade,Retail
+22,Louisiana,48,84718,81426,3292,742,103,261,4312,4164,148,27,4,9,Transportation and Warehousing,Logistics
+22,Louisiana,51,28478,27574,904,174,0,20,1634,1583,51,5,0,1,Information,Information
+22,Louisiana,52,63687,62216,1471,305,226,31,3421,3334,87,16,8,7,Finance and Insurance,Finance
+22,Louisiana,53,32494,31180,1314,377,34,107,1685,1623,62,13,4,4,Real Estate and Rental and Leasing,Real Estate
+22,Louisiana,54,101710,96906,4804,604,389,332,5894,5614,280,29,18,15,"Professional, Scientific, and Technical Services",Professional
+22,Louisiana,55,1014,957,57,0,0,0,61,59,2,0,0,0,Management of Companies and Enterprises,Management
+22,Louisiana,56,68908,64310,4598,1996,303,789,3787,3579,208,89,11,40,Administrative and Support and Waste Management and Remediation Services,Administrative
+22,Louisiana,61,177270,168758,8512,606,600,273,10723,10187,536,32,47,20,Educational Services,Education
+22,Louisiana,62,281060,272863,8197,811,548,321,14819,14333,486,53,39,21,Health Care and Social Assistance,Health Care
+22,Louisiana,71,45705,43723,1982,270,99,202,2653,2534,119,14,8,8,"Arts, Entertainment, and Recreation",Arts/Entertainment
+22,Louisiana,72,165529,153390,12139,2908,533,2526,8835,8271,564,123,22,93,Accommodation and Food Services,Hospitality
+22,Louisiana,81,90524,81373,9151,2894,315,1180,5139,4679,460,111,19,47,Other Services (except Public Administration),Other Services
+22,Louisiana,92,101958,99942,2016,427,63,164,5635,5522,113,23,9,9,Public Administration,Public Administration
+22,Louisiana,99,0,0,0,0,0,0,1171,1134,37,10,2,5,Industries not classified,Industries not classified
+23,Maine,11,14816,14448,368,0,53,41,1286,1258,28,1,1,1,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+23,Maine,21,474,396,78,0,0,0,35,30,5,0,0,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+23,Maine,22,3776,3747,29,0,0,0,217,215,2,0,0,0,Utilities,Utilities
+23,Maine,23,43176,42516,660,0,41,23,2443,2408,35,1,1,1,Construction,Construction
+23,Maine,31,56856,54222,2634,13,100,58,2938,2833,105,1,3,3,Manufacturing,Manufacturing
+23,Maine,42,12244,11849,395,82,25,0,603,587,16,1,2,0,Wholesale Trade,Wholesale
+23,Maine,44,78666,76251,2415,148,75,0,4247,4130,117,4,2,1,Retail Trade,Retail
+23,Maine,48,19659,18954,705,0,101,46,1075,1055,20,0,1,1,Transportation and Warehousing,Logistics
+23,Maine,51,11159,10982,177,0,0,0,533,521,12,0,0,1,Information,Information
+23,Maine,52,30733,29914,819,58,75,0,1320,1281,39,1,3,0,Finance and Insurance,Finance
+23,Maine,53,7685,7465,220,0,0,0,398,387,11,0,0,2,Real Estate and Rental and Leasing,Real Estate
+23,Maine,54,34411,32860,1551,0,12,44,1632,1562,70,1,4,1,"Professional, Scientific, and Technical Services",Professional
+23,Maine,55,408,408,0,0,0,0,16,16,0,0,0,0,Management of Companies and Enterprises,Management
+23,Maine,56,20107,19424,683,0,0,28,1139,1103,36,0,0,1,Administrative and Support and Waste Management and Remediation Services,Administrative
+23,Maine,61,65767,63165,2602,13,244,5,3733,3569,164,1,15,1,Educational Services,Education
+23,Maine,62,108163,102794,5369,60,293,0,5341,5121,220,4,10,0,Health Care and Social Assistance,Health Care
+23,Maine,71,11511,11137,374,0,0,41,806,781,25,0,0,4,"Arts, Entertainment, and Recreation",Arts/Entertainment
+23,Maine,72,42063,40010,2053,179,121,97,2541,2445,96,5,5,2,Accommodation and Food Services,Hospitality
+23,Maine,81,26780,25573,1207,15,0,95,1440,1396,44,2,1,1,Other Services (except Public Administration),Other Services
+23,Maine,92,25247,24667,580,0,70,27,1447,1422,25,0,2,1,Public Administration,Public Administration
+23,Maine,99,0,0,0,0,0,0,150,145,5,0,0,0,Industries not classified,Industries not classified
+24,Maryland,11,12100,10184,1916,750,31,541,810,706,104,33,4,34,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+24,Maryland,21,1645,1505,140,0,16,0,106,96,10,0,2,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+24,Maryland,22,18548,16612,1936,435,23,0,1016,929,87,14,3,1,Utilities,Utilities
+24,Maryland,23,203786,138906,64880,41337,5681,7564,9989,7722,2267,1285,213,249,Construction,Construction
+24,Maryland,31,122143,101550,20593,3243,1260,1382,7002,5959,1043,132,62,41,Manufacturing,Manufacturing
+24,Maryland,42,50759,43123,7636,1744,877,482,2784,2425,359,74,35,24,Wholesale Trade,Wholesale
+24,Maryland,44,260673,214577,46096,7167,2841,1263,14710,12479,2231,303,153,59,Retail Trade,Retail
+24,Maryland,48,119890,96188,23702,3835,1558,533,5897,4917,980,130,63,25,Transportation and Warehousing,Logistics
+24,Maryland,51,57533,50596,6937,579,453,159,3349,2970,379,33,22,6,Information,Information
+24,Maryland,52,114098,96882,17216,1498,1408,166,6372,5441,931,72,86,11,Finance and Insurance,Finance
+24,Maryland,53,56597,48051,8546,1971,857,376,3051,2619,432,86,40,17,Real Estate and Rental and Leasing,Real Estate
+24,Maryland,54,313128,253944,59184,2670,2729,842,17961,14747,3214,129,160,41,"Professional, Scientific, and Technical Services",Professional
+24,Maryland,55,2894,2372,522,47,31,0,164,136,28,2,3,0,Management of Companies and Enterprises,Management
+24,Maryland,56,132256,92797,39459,19379,3195,4014,6804,5257,1547,654,130,148,Administrative and Support and Waste Management and Remediation Services,Administrative
+24,Maryland,61,283050,240835,42215,3790,3058,1059,17339,14981,2358,174,179,51,Educational Services,Education
+24,Maryland,62,396673,306440,90233,6682,5726,1291,20681,16467,4214,292,274,65,Health Care and Social Assistance,Health Care
+24,Maryland,71,56601,50311,6290,952,976,241,4079,3729,350,35,46,15,"Arts, Entertainment, and Recreation",Arts/Entertainment
+24,Maryland,72,195487,140002,55485,19272,3275,4136,11148,8689,2459,721,150,154,Accommodation and Food Services,Hospitality
+24,Maryland,81,155817,115360,40457,9388,5090,1840,8746,6808,1938,378,255,92,Other Services (except Public Administration),Other Services
+24,Maryland,92,313625,276161,37464,2011,3282,378,17288,15378,1910,89,162,21,Public Administration,Public Administration
+24,Maryland,99,0,0,0,0,0,0,1300,1091,209,48,14,9,Industries not classified,Industries not classified
+25,Massachusetts,11,12074,10139,1935,427,193,178,873,781,92,17,7,7,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+25,Massachusetts,21,1217,991,226,31,63,26,94,81,13,1,1,1,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+25,Massachusetts,22,22973,20404,2569,129,362,0,1293,1171,122,6,13,0,Utilities,Utilities
+25,Massachusetts,23,197944,152021,45923,7525,16946,1017,10222,8516,1706,211,491,32,Construction,Construction
+25,Massachusetts,31,291329,217362,73967,5706,5555,1171,16138,12472,3666,206,236,41,Manufacturing,Manufacturing
+25,Massachusetts,42,73544,59646,13898,2632,1265,274,4002,3364,638,98,60,9,Wholesale Trade,Wholesale
+25,Massachusetts,44,334165,277839,56326,5929,5332,535,19491,16856,2635,194,227,32,Retail Trade,Retail
+25,Massachusetts,48,109875,83230,26645,1878,3812,117,5797,4699,1098,71,138,8,Transportation and Warehousing,Logistics
+25,Massachusetts,51,76743,65523,11220,175,852,45,4641,4016,625,9,53,2,Information,Information
+25,Massachusetts,52,192140,160655,31485,959,2837,298,11044,9407,1637,48,137,13,Finance and Insurance,Finance
+25,Massachusetts,53,55189,47178,8011,605,974,84,3089,2687,402,26,51,5,Real Estate and Rental and Leasing,Real Estate
+25,Massachusetts,54,341512,273256,68256,1433,4482,556,20218,16465,3753,56,244,31,"Professional, Scientific, and Technical Services",Professional
+25,Massachusetts,55,4735,4026,709,0,24,12,265,231,34,0,1,1,Management of Companies and Enterprises,Management
+25,Massachusetts,56,126942,90008,36934,7312,10971,804,6832,5298,1534,246,382,29,Administrative and Support and Waste Management and Remediation Services,Administrative
+25,Massachusetts,61,389765,330056,59709,2386,6013,859,25209,21514,3695,105,319,53,Educational Services,Education
+25,Massachusetts,62,549024,425727,123297,5373,11182,925,29482,23825,5657,219,479,45,Health Care and Social Assistance,Health Care
+25,Massachusetts,71,65252,58474,6778,224,953,137,5026,4577,449,12,50,6,"Arts, Entertainment, and Recreation",Arts/Entertainment
+25,Massachusetts,72,234160,165726,68434,12213,12940,1831,13852,10863,2989,382,476,51,Accommodation and Food Services,Hospitality
+25,Massachusetts,81,144356,106870,37486,2887,9715,764,8415,6685,1730,112,350,48,Other Services (except Public Administration),Other Services
+25,Massachusetts,92,127090,113748,13342,1014,1381,131,7360,6671,689,38,68,9,Public Administration,Public Administration
+25,Massachusetts,99,0,0,0,0,0,0,1379,1090,289,20,27,1,Industries not classified,Industries not classified
+26,Michigan,11,43561,35869,7692,656,0,6203,4083,3682,401,27,2,320,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+26,Michigan,21,6124,6080,44,0,0,0,541,532,9,0,0,1,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+26,Michigan,22,36172,34447,1725,12,33,240,2205,2124,81,1,3,7,Utilities,Utilities
+26,Michigan,23,242183,225617,16566,976,239,8508,14791,14161,630,32,12,246,Construction,Construction
+26,Michigan,31,814150,727071,87079,2089,2434,14576,44242,40629,3613,68,120,513,Manufacturing,Manufacturing
+26,Michigan,42,101632,93894,7738,256,224,1014,5514,5184,330,6,8,58,Wholesale Trade,Wholesale
+26,Michigan,44,457560,426184,31376,752,441,2718,26887,25480,1407,32,25,91,Retail Trade,Retail
+26,Michigan,48,157270,143337,13933,119,215,1074,8498,7986,512,5,12,46,Transportation and Warehousing,Logistics
+26,Michigan,51,60679,57532,3147,27,115,152,3395,3226,169,1,5,8,Information,Information
+26,Michigan,52,169809,158552,11257,124,354,473,8986,8507,479,4,19,17,Finance and Insurance,Finance
+26,Michigan,53,64627,60660,3967,0,174,351,3488,3319,169,1,7,12,Real Estate and Rental and Leasing,Real Estate
+26,Michigan,54,239621,212564,27057,88,705,710,12811,11603,1208,4,41,32,"Professional, Scientific, and Technical Services",Professional
+26,Michigan,55,5084,4803,281,12,20,73,269,253,16,1,2,4,Management of Companies and Enterprises,Management
+26,Michigan,56,170806,158350,12456,880,205,3585,10074,9534,540,33,13,149,Administrative and Support and Waste Management and Remediation Services,Administrative
+26,Michigan,61,372504,341430,31074,460,1324,1951,22648,21016,1632,26,68,88,Educational Services,Education
+26,Michigan,62,654575,605823,48752,494,1473,2124,35573,33442,2131,24,83,87,Health Care and Social Assistance,Health Care
+26,Michigan,71,85520,80827,4693,102,98,383,5863,5614,249,5,8,23,"Arts, Entertainment, and Recreation",Arts/Entertainment
+26,Michigan,72,348859,319184,29675,1091,491,5996,19918,18666,1252,36,29,176,Accommodation and Food Services,Hospitality
+26,Michigan,81,196271,181426,14845,303,384,1259,11534,10862,672,12,17,50,Other Services (except Public Administration),Other Services
+26,Michigan,92,145626,140147,5479,0,175,370,8958,8727,231,1,9,13,Public Administration,Public Administration
+26,Michigan,99,0,0,0,0,0,0,2178,2026,152,0,2,20,Industries not classified,Industries not classified
+27,Minnesota,11,50104,45482,4622,1224,137,2255,6107,5897,210,27,7,106,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+27,Minnesota,21,5592,5545,47,0,0,0,451,446,5,0,0,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+27,Minnesota,22,18110,17339,771,0,0,16,1202,1177,25,0,0,1,Utilities,Utilities
+27,Minnesota,23,168076,156524,11552,2153,823,5242,11031,10729,302,40,18,125,Construction,Construction
+27,Minnesota,31,371756,320457,51299,2724,1770,7945,19523,18019,1504,59,67,238,Manufacturing,Manufacturing
+27,Minnesota,42,76784,71503,5281,415,319,862,4258,4096,162,14,9,30,Wholesale Trade,Wholesale
+27,Minnesota,44,298506,275070,23436,570,1093,2489,15522,14815,707,21,50,72,Retail Trade,Retail
+27,Minnesota,48,109973,94247,15726,676,663,1294,5860,5499,361,17,18,25,Transportation and Warehousing,Logistics
+27,Minnesota,51,44607,41205,3402,0,95,365,2173,2078,95,1,2,6,Information,Information
+27,Minnesota,52,162038,145776,16262,329,751,804,7130,6694,436,7,17,24,Finance and Insurance,Finance
+27,Minnesota,53,38404,35608,2796,151,191,363,1758,1680,78,7,4,11,Real Estate and Rental and Leasing,Real Estate
+27,Minnesota,54,180617,160987,19630,189,1095,707,7789,7202,587,9,33,27,"Professional, Scientific, and Technical Services",Professional
+27,Minnesota,55,6182,5541,641,0,0,0,230,217,13,0,0,0,Management of Companies and Enterprises,Management
+27,Minnesota,56,89340,75155,14185,775,434,5443,4666,4251,415,26,23,124,Administrative and Support and Waste Management and Remediation Services,Administrative
+27,Minnesota,61,254603,234246,20357,301,1122,1004,14498,13696,802,14,51,38,Educational Services,Education
+27,Minnesota,62,458784,404713,54071,1086,1484,2984,24103,22653,1450,26,49,80,Health Care and Social Assistance,Health Care
+27,Minnesota,71,58983,55456,3527,270,243,161,3455,3336,119,6,8,7,"Arts, Entertainment, and Recreation",Arts/Entertainment
+27,Minnesota,72,173944,148942,25002,1963,2445,8602,8725,8020,705,32,59,201,Accommodation and Food Services,Hospitality
+27,Minnesota,81,118235,105721,12514,862,838,2850,6497,6144,353,12,23,65,Other Services (except Public Administration),Other Services
+27,Minnesota,92,97908,92753,5155,148,313,367,5732,5553,179,3,11,15,Public Administration,Public Administration
+27,Minnesota,99,0,0,0,0,0,0,476,416,60,3,5,8,Industries not classified,Industries not classified
+28,Mississippi,11,18003,17242,761,36,0,352,1199,1152,47,2,0,28,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+28,Mississippi,21,10362,10283,79,52,0,0,572,569,3,1,0,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+28,Mississippi,22,13345,13003,342,51,0,51,742,727,15,1,1,3,Utilities,Utilities
+28,Mississippi,23,77560,72159,5401,1210,85,3767,4071,3870,201,38,5,138,Construction,Construction
+28,Mississippi,31,155717,150597,5120,672,237,2571,8366,8118,248,26,11,122,Manufacturing,Manufacturing
+28,Mississippi,42,27950,27225,725,22,21,445,1515,1478,37,3,3,15,Wholesale Trade,Wholesale
+28,Mississippi,44,129222,126066,3156,8,12,869,7395,7235,160,5,1,27,Retail Trade,Retail
+28,Mississippi,48,59860,58948,912,73,117,226,3119,3072,47,5,4,17,Transportation and Warehousing,Logistics
+28,Mississippi,51,13924,13714,210,0,0,15,779,766,13,0,1,2,Information,Information
+28,Mississippi,52,38615,37874,741,21,104,57,2096,2061,35,2,5,4,Finance and Insurance,Finance
+28,Mississippi,53,14705,14448,257,19,128,0,756,743,13,1,3,0,Real Estate and Rental and Leasing,Real Estate
+28,Mississippi,54,37000,36176,824,50,61,86,2287,2231,56,4,2,8,"Professional, Scientific, and Technical Services",Professional
+28,Mississippi,55,643,643,0,0,0,0,34,34,0,0,0,0,Management of Companies and Enterprises,Management
+28,Mississippi,56,39491,37920,1571,276,102,821,2309,2230,79,11,6,38,Administrative and Support and Waste Management and Remediation Services,Administrative
+28,Mississippi,61,111001,107804,3197,205,244,110,6952,6769,183,12,13,8,Educational Services,Education
+28,Mississippi,62,179899,176725,3174,104,183,140,9833,9643,190,5,12,11,Health Care and Social Assistance,Health Care
+28,Mississippi,71,28912,27295,1617,80,82,263,1641,1556,85,3,6,11,"Arts, Entertainment, and Recreation",Arts/Entertainment
+28,Mississippi,72,87402,83001,4401,516,36,1357,5030,4817,213,22,5,59,Accommodation and Food Services,Hospitality
+28,Mississippi,81,51076,48808,2268,291,15,791,2953,2828,125,18,3,31,Other Services (except Public Administration),Other Services
+28,Mississippi,92,60686,59967,719,35,29,32,3583,3531,52,4,3,2,Public Administration,Public Administration
+28,Mississippi,99,0,0,0,0,0,0,1050,1025,25,2,4,6,Industries not classified,Industries not classified
+29,Missouri,11,37107,35904,1203,26,23,787,2990,2912,78,4,1,50,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+29,Missouri,21,5549,5268,281,0,0,70,373,363,10,0,0,2,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+29,Missouri,22,23335,22619,716,0,14,121,1375,1348,27,0,1,4,Utilities,Utilities
+29,Missouri,23,182847,173374,9473,2003,304,5125,10394,10043,351,57,12,163,Construction,Construction
+29,Missouri,31,316820,294361,22459,1977,664,5614,18242,17292,950,84,25,254,Manufacturing,Manufacturing
+29,Missouri,42,71863,68732,3131,274,98,662,3937,3808,129,9,7,24,Wholesale Trade,Wholesale
+29,Missouri,44,304253,293004,11249,432,371,1336,18045,17492,553,25,27,72,Retail Trade,Retail
+29,Missouri,48,127368,121280,6088,81,74,1044,6886,6650,236,8,5,30,Transportation and Warehousing,Logistics
+29,Missouri,51,51663,49705,1958,23,86,201,2825,2730,95,2,5,8,Information,Information
+29,Missouri,52,148034,141506,6528,241,191,506,7542,7275,267,8,7,20,Finance and Insurance,Finance
+29,Missouri,53,45499,43422,2077,51,121,480,2338,2257,81,2,5,14,Real Estate and Rental and Leasing,Real Estate
+29,Missouri,54,155292,143817,11475,373,704,575,8349,7844,505,14,33,26,"Professional, Scientific, and Technical Services",Professional
+29,Missouri,55,4875,4656,219,29,0,48,239,232,7,1,0,2,Management of Companies and Enterprises,Management
+29,Missouri,56,100506,94581,5925,561,257,2456,5952,5697,255,19,11,96,Administrative and Support and Waste Management and Remediation Services,Administrative
+29,Missouri,61,251575,236420,15155,412,934,896,15078,14279,799,25,56,34,Educational Services,Education
+29,Missouri,62,407549,387518,20031,543,567,1643,22460,21564,896,25,38,73,Health Care and Social Assistance,Health Care
+29,Missouri,71,52262,49572,2690,54,198,241,3324,3198,126,4,8,11,"Arts, Entertainment, and Recreation",Arts/Entertainment
+29,Missouri,72,204812,188549,16263,1577,485,5531,11399,10739,660,60,18,192,Accommodation and Food Services,Hospitality
+29,Missouri,81,122296,114869,7427,226,310,1285,7270,6923,347,16,12,50,Other Services (except Public Administration),Other Services
+29,Missouri,92,117874,115023,2851,195,107,138,6964,6838,126,5,6,13,Public Administration,Public Administration
+29,Missouri,99,0,0,0,0,0,0,897,847,50,5,2,9,Industries not classified,Industries not classified
+30,Montana,11,21281,20451,830,0,68,538,2126,2080,46,0,7,19,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+30,Montana,21,8523,8207,316,0,0,148,492,479,13,0,0,2,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+30,Montana,22,4800,4800,0,0,0,0,275,275,0,0,0,0,Utilities,Utilities
+30,Montana,23,41101,40426,675,0,23,197,2168,2136,32,4,1,8,Construction,Construction
+30,Montana,31,24027,23703,324,0,0,86,1121,1106,15,0,0,2,Manufacturing,Manufacturing
+30,Montana,42,10886,10866,20,0,0,0,541,538,3,0,0,0,Wholesale Trade,Wholesale
+30,Montana,44,53824,53010,814,0,87,24,2754,2716,38,0,3,2,Retail Trade,Retail
+30,Montana,48,19709,19482,227,0,0,0,1067,1051,16,0,0,0,Transportation and Warehousing,Logistics
+30,Montana,51,7771,7537,234,0,44,0,379,369,10,0,2,0,Information,Information
+30,Montana,52,18222,17772,450,0,22,0,862,849,13,0,1,0,Finance and Insurance,Finance
+30,Montana,53,6960,6881,79,0,0,0,343,336,7,0,0,0,Real Estate and Rental and Leasing,Real Estate
+30,Montana,54,24524,23653,871,0,28,0,1212,1175,37,0,2,0,"Professional, Scientific, and Technical Services",Professional
+30,Montana,55,172,147,25,0,0,0,10,9,1,0,0,0,Management of Companies and Enterprises,Management
+30,Montana,56,15280,14837,443,114,7,47,841,816,25,2,1,2,Administrative and Support and Waste Management and Remediation Services,Administrative
+30,Montana,61,41810,40082,1728,0,123,0,2504,2430,74,0,8,0,Educational Services,Education
+30,Montana,62,69485,67549,1936,97,125,99,3424,3342,82,1,6,2,Health Care and Social Assistance,Health Care
+30,Montana,71,10940,10812,128,0,0,48,653,641,12,0,1,1,"Arts, Entertainment, and Recreation",Arts/Entertainment
+30,Montana,72,44410,41918,2492,49,30,482,2183,2117,66,2,1,9,Accommodation and Food Services,Hospitality
+30,Montana,81,23225,22819,406,0,0,82,1204,1182,22,0,1,1,Other Services (except Public Administration),Other Services
+30,Montana,92,29532,29170,362,0,48,0,1648,1633,15,0,1,0,Public Administration,Public Administration
+30,Montana,99,0,0,0,0,0,0,115,113,2,0,0,1,Industries not classified,Industries not classified
+31,Nebraska,11,35639,32904,2735,506,65,1928,2917,2810,107,14,2,79,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+31,Nebraska,21,1550,1489,61,0,0,0,129,126,3,0,1,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+31,Nebraska,22,10206,9958,248,0,0,52,625,616,9,0,1,2,Utilities,Utilities
+31,Nebraska,23,67183,57154,10029,2152,175,6522,3487,3215,272,56,5,168,Construction,Construction
+31,Nebraska,31,96412,74222,22190,3015,421,8822,4825,4197,628,94,9,257,Manufacturing,Manufacturing
+31,Nebraska,42,25486,24631,855,102,0,357,1466,1429,37,6,0,14,Wholesale Trade,Wholesale
+31,Nebraska,44,100165,94007,6158,427,137,1956,5637,5410,227,20,9,59,Retail Trade,Retail
+31,Nebraska,48,43840,40865,2975,568,76,511,2434,2346,88,11,2,19,Transportation and Warehousing,Logistics
+31,Nebraska,51,17291,16333,958,0,0,97,871,836,35,0,0,4,Information,Information
+31,Nebraska,52,61469,57898,3571,105,221,762,2990,2883,107,5,7,18,Finance and Insurance,Finance
+31,Nebraska,53,10226,9623,603,0,21,187,492,470,22,0,1,9,Real Estate and Rental and Leasing,Real Estate
+31,Nebraska,54,47157,44092,3065,72,66,306,2263,2152,111,4,5,10,"Professional, Scientific, and Technical Services",Professional
+31,Nebraska,55,1290,1290,0,0,0,0,65,65,0,0,0,0,Management of Companies and Enterprises,Management
+31,Nebraska,56,33198,27888,5310,372,270,2942,1726,1566,160,15,7,76,Administrative and Support and Waste Management and Remediation Services,Administrative
+31,Nebraska,61,90984,84726,6258,293,360,1426,5250,4985,265,8,19,52,Educational Services,Education
+31,Nebraska,62,138620,130329,8291,210,502,1621,7407,7141,266,10,11,52,Health Care and Social Assistance,Health Care
+31,Nebraska,71,15361,14534,827,109,71,177,1116,1081,35,3,3,6,"Arts, Entertainment, and Recreation",Arts/Entertainment
+31,Nebraska,72,56720,50154,6566,646,35,3672,3017,2793,224,23,2,96,Accommodation and Food Services,Hospitality
+31,Nebraska,81,38410,35663,2747,119,101,753,2261,2156,105,6,5,31,Other Services (except Public Administration),Other Services
+31,Nebraska,92,38088,36681,1407,65,142,337,2135,2074,61,2,6,15,Public Administration,Public Administration
+31,Nebraska,99,0,0,0,0,0,0,214,181,33,5,0,5,Industries not classified,Industries not classified
+32,Nevada,11,5518,4066,1452,32,91,1194,352,280,72,5,2,54,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+32,Nevada,21,14604,13241,1363,0,8,917,711,643,68,1,1,43,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+32,Nevada,22,9510,8460,1050,98,53,189,565,504,61,3,3,12,Utilities,Utilities
+32,Nevada,23,95113,60192,34921,3950,689,27539,4726,3307,1419,143,36,1068,Construction,Construction
+32,Nevada,31,60282,43659,16623,2072,564,8278,3224,2443,781,83,30,364,Manufacturing,Manufacturing
+32,Nevada,42,27368,22237,5131,446,415,2542,1511,1247,264,18,16,121,Wholesale Trade,Wholesale
+32,Nevada,44,145854,113659,32195,2958,1041,12169,7973,6383,1590,124,61,552,Retail Trade,Retail
+32,Nevada,48,70508,53159,17349,1574,564,4459,3647,2804,843,72,30,219,Transportation and Warehousing,Logistics
+32,Nevada,51,20918,18064,2854,280,79,849,1171,1019,152,13,5,43,Information,Information
+32,Nevada,52,38167,31918,6249,426,304,1467,2095,1774,321,26,14,68,Finance and Insurance,Finance
+32,Nevada,53,33015,26336,6679,360,374,2703,1815,1466,349,17,22,111,Real Estate and Rental and Leasing,Real Estate
+32,Nevada,54,69267,59934,9333,358,364,1627,4069,3520,549,15,27,92,"Professional, Scientific, and Technical Services",Professional
+32,Nevada,55,1808,1347,461,0,28,25,79,66,13,0,1,1,Management of Companies and Enterprises,Management
+32,Nevada,56,71515,47805,23710,2900,689,14896,3967,2884,1083,120,39,649,Administrative and Support and Waste Management and Remediation Services,Administrative
+32,Nevada,61,84837,73569,11268,803,476,3015,5160,4496,664,38,30,172,Educational Services,Education
+32,Nevada,62,124697,96420,28277,2209,724,5316,6764,5317,1447,75,45,254,Health Care and Social Assistance,Health Care
+32,Nevada,71,106103,73018,33085,2705,1472,11160,5692,4070,1622,101,59,493,"Arts, Entertainment, and Recreation",Arts/Entertainment
+32,Nevada,72,222145,132739,89406,10153,2976,38478,10816,6889,3927,383,128,1599,Accommodation and Food Services,Hospitality
+32,Nevada,81,62153,42058,20095,2198,664,10691,3294,2395,899,88,36,442,Other Services (except Public Administration),Other Services
+32,Nevada,92,54229,49424,4805,472,108,1254,3520,3226,294,19,7,58,Public Administration,Public Administration
+32,Nevada,99,0,0,0,0,0,0,746,612,134,8,4,49,Industries not classified,Industries not classified
+33,New Hampshire,11,4563,4022,541,38,26,0,365,338,27,2,1,0,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+33,New Hampshire,21,440,405,35,0,0,0,28,27,1,0,0,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+33,New Hampshire,22,4944,4820,124,0,0,0,285,277,8,0,0,0,Utilities,Utilities
+33,New Hampshire,23,47760,45714,2046,345,102,329,2596,2501,95,13,4,10,Construction,Construction
+33,New Hampshire,31,87821,79003,8818,91,711,588,4507,4144,363,5,30,21,Manufacturing,Manufacturing
+33,New Hampshire,42,17689,16489,1200,26,23,65,893,831,62,1,1,1,Wholesale Trade,Wholesale
+33,New Hampshire,44,81105,77377,3728,198,188,100,4506,4318,188,8,12,5,Retail Trade,Retail
+33,New Hampshire,48,20419,19642,777,54,13,0,1132,1083,49,1,3,0,Transportation and Warehousing,Logistics
+33,New Hampshire,51,14407,13519,888,36,30,0,774,720,54,1,4,0,Information,Information
+33,New Hampshire,52,32894,30960,1934,122,178,0,1669,1560,109,4,10,1,Finance and Insurance,Finance
+33,New Hampshire,53,9738,8956,782,55,135,0,568,527,41,1,6,0,Real Estate and Rental and Leasing,Real Estate
+33,New Hampshire,54,48182,43264,4918,17,197,56,2659,2420,239,4,10,2,"Professional, Scientific, and Technical Services",Professional
+33,New Hampshire,55,582,561,21,0,0,0,35,34,1,0,0,0,Management of Companies and Enterprises,Management
+33,New Hampshire,56,25537,23314,2223,46,563,183,1426,1318,108,4,22,5,Administrative and Support and Waste Management and Remediation Services,Administrative
+33,New Hampshire,61,67361,63178,4183,80,178,51,4208,3960,248,6,12,4,Educational Services,Education
+33,New Hampshire,62,100683,94055,6628,104,256,0,5362,5071,291,4,14,0,Health Care and Social Assistance,Health Care
+33,New Hampshire,71,12958,12608,350,0,85,98,1003,976,27,0,6,1,"Arts, Entertainment, and Recreation",Arts/Entertainment
+33,New Hampshire,72,45155,42047,3108,207,340,228,2736,2575,161,8,14,9,Accommodation and Food Services,Hospitality
+33,New Hampshire,81,28237,26132,2105,66,69,14,1673,1566,107,2,5,1,Other Services (except Public Administration),Other Services
+33,New Hampshire,92,24736,23567,1169,48,57,62,1469,1420,49,1,2,2,Public Administration,Public Administration
+33,New Hampshire,99,0,0,0,0,0,0,165,151,14,0,0,1,Industries not classified,Industries not classified
+34,New Jersey,11,11998,7728,4270,540,289,2583,829,596,233,29,15,129,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+34,New Jersey,21,1857,1579,278,22,109,0,112,96,16,1,5,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+34,New Jersey,22,31242,27206,4036,234,661,0,1800,1592,208,9,26,0,Utilities,Utilities
+34,New Jersey,23,251545,164683,86862,18703,23352,13655,12772,9472,3300,530,811,412,Construction,Construction
+34,New Jersey,31,322050,204045,118005,11074,21258,9686,17818,12155,5663,406,949,370,Manufacturing,Manufacturing
+34,New Jersey,42,138891,93793,45098,3681,8065,3222,7479,5353,2126,127,337,131,Wholesale Trade,Wholesale
+34,New Jersey,44,431275,324955,106320,8123,17337,6638,24382,19308,5074,288,780,261,Retail Trade,Retail
+34,New Jersey,48,225787,136966,88821,8388,19798,3915,10819,7240,3579,276,789,136,Transportation and Warehousing,Logistics
+34,New Jersey,51,112451,87772,24679,689,2831,175,6510,5193,1317,27,137,10,Information,Information
+34,New Jersey,52,274732,195287,79445,1169,7516,756,15590,11239,4351,53,352,43,Finance and Insurance,Finance
+34,New Jersey,53,75388,56408,18980,1535,4022,547,4169,3269,900,51,154,26,Real Estate and Rental and Leasing,Real Estate
+34,New Jersey,54,375522,264214,111308,1773,8568,1100,22059,15886,6173,73,428,54,"Professional, Scientific, and Technical Services",Professional
+34,New Jersey,55,6799,5223,1576,86,237,38,403,324,79,4,9,2,Management of Companies and Enterprises,Management
+34,New Jersey,56,174745,106958,67787,12647,16312,11176,9028,6197,2831,430,668,349,Administrative and Support and Waste Management and Remediation Services,Administrative
+34,New Jersey,61,408360,339510,68850,3401,11979,1407,25303,21408,3895,140,574,63,Educational Services,Education
+34,New Jersey,62,570141,402791,167350,5448,23918,3647,30416,22414,8002,232,1095,140,Health Care and Social Assistance,Health Care
+34,New Jersey,71,91813,75612,16201,912,2911,967,6321,5476,845,43,136,46,"Arts, Entertainment, and Recreation",Arts/Entertainment
+34,New Jersey,72,259391,164226,95165,12932,16041,16401,14578,10558,4020,385,676,523,Accommodation and Food Services,Hospitality
+34,New Jersey,81,173600,111270,62330,6780,14784,4436,9559,6614,2945,237,641,173,Other Services (except Public Administration),Other Services
+34,New Jersey,92,172089,150622,21467,1040,3556,378,9747,8628,1119,48,177,16,Public Administration,Public Administration
+34,New Jersey,99,0,0,0,0,0,0,2146,1588,558,51,79,30,Industries not classified,Industries not classified
+35,New Mexico,11,14287,10095,4192,54,0,3872,974,796,178,4,1,157,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+35,New Mexico,21,20041,16868,3173,162,78,2523,929,805,124,3,3,107,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+35,New Mexico,22,8294,7717,577,8,19,410,477,452,25,1,1,17,Utilities,Utilities
+35,New Mexico,23,59960,45312,14648,207,59,13916,3019,2526,493,7,4,458,Construction,Construction
+35,New Mexico,31,34848,28927,5921,197,79,4684,1835,1593,242,8,5,171,Manufacturing,Manufacturing
+35,New Mexico,42,15388,13115,2273,58,54,1728,736,642,94,3,2,69,Wholesale Trade,Wholesale
+35,New Mexico,44,91194,82975,8219,337,217,5338,4609,4262,347,17,10,207,Retail Trade,Retail
+35,New Mexico,48,26729,22713,4016,71,45,3068,1353,1219,134,4,3,98,Transportation and Warehousing,Logistics
+35,New Mexico,51,12853,12082,771,10,17,605,659,624,35,1,4,18,Information,Information
+35,New Mexico,52,24716,23063,1653,62,15,946,1195,1128,67,5,1,34,Finance and Insurance,Finance
+35,New Mexico,53,12439,11090,1349,89,0,915,599,534,65,2,1,42,Real Estate and Rental and Leasing,Real Estate
+35,New Mexico,54,61481,56292,5189,123,402,1523,3350,3087,263,6,16,59,"Professional, Scientific, and Technical Services",Professional
+35,New Mexico,55,355,267,88,0,0,39,20,17,3,0,0,1,Management of Companies and Enterprises,Management
+35,New Mexico,56,35311,28970,6341,149,80,5482,1740,1501,239,9,5,199,Administrative and Support and Waste Management and Remediation Services,Administrative
+35,New Mexico,61,86935,76676,10259,327,596,4789,5004,4502,502,7,31,203,Educational Services,Education
+35,New Mexico,62,120693,109617,11076,128,596,5971,6322,5851,471,8,26,267,Health Care and Social Assistance,Health Care
+35,New Mexico,71,20042,18624,1418,2,209,830,1377,1270,107,1,6,57,"Arts, Entertainment, and Recreation",Arts/Entertainment
+35,New Mexico,72,76609,62678,13931,822,72,11005,3845,3280,565,29,4,432,Accommodation and Food Services,Hospitality
+35,New Mexico,81,42887,35465,7422,133,212,5241,2105,1830,275,4,10,187,Other Services (except Public Administration),Other Services
+35,New Mexico,92,64604,61343,3261,120,163,1475,3576,3415,161,5,12,66,Public Administration,Public Administration
+35,New Mexico,99,0,0,0,0,0,0,552,520,32,2,5,18,Industries not classified,Industries not classified
+36,New York,11,43905,36903,7002,1667,364,2459,4034,3573,461,105,18,157,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+36,New York,21,5806,5416,390,43,65,0,459,435,24,1,5,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+36,New York,22,56392,49437,6955,304,1040,255,3414,3036,378,10,58,9,Utilities,Utilities
+36,New York,23,522174,327779,194395,28719,47620,23895,28375,20737,7638,861,1609,705,Construction,Construction
+36,New York,31,518203,392407,125796,12026,18550,8334,32561,26287,6274,454,841,303,Manufacturing,Manufacturing
+36,New York,42,210887,151054,59833,4420,8104,3715,11558,8645,2913,161,370,128,Wholesale Trade,Wholesale
+36,New York,44,872388,659696,212692,14761,26671,18506,51425,41123,10302,537,1286,576,Retail Trade,Retail
+36,New York,48,441064,262372,178692,8750,23977,4762,22686,14741,7945,307,1075,165,Transportation and Warehousing,Logistics
+36,New York,51,257069,212616,44453,1347,4697,897,14137,11827,2310,58,233,45,Information,Information
+36,New York,52,515882,390576,125306,2839,14984,1473,27277,20920,6357,121,719,67,Finance and Insurance,Finance
+36,New York,53,196895,138288,58607,3600,9731,2261,9828,7189,2639,124,437,81,Real Estate and Rental and Leasing,Real Estate
+36,New York,54,722288,562596,159692,4015,17681,3493,39201,30816,8385,161,854,144,"Professional, Scientific, and Technical Services",Professional
+36,New York,55,9431,7359,2072,50,180,22,528,414,114,3,12,1,Management of Companies and Enterprises,Management
+36,New York,56,328040,216357,111683,19327,20731,10506,18256,13434,4822,615,891,379,Administrative and Support and Waste Management and Remediation Services,Administrative
+36,New York,61,978145,810302,167843,6652,20087,3429,61696,52302,9394,290,1087,157,Educational Services,Education
+36,New York,62,1476084,992115,483969,17590,55187,8583,81083,57751,23332,799,2687,358,Health Care and Social Assistance,Health Care
+36,New York,71,223784,185110,38674,1749,5442,1905,15190,13101,2089,79,274,71,"Arts, Entertainment, and Recreation",Arts/Entertainment
+36,New York,72,643919,392394,251525,23910,29081,43396,37355,26390,10965,775,1215,1291,Accommodation and Food Services,Hospitality
+36,New York,81,427744,263863,163881,13700,30218,12948,23834,16297,7537,510,1286,506,Other Services (except Public Administration),Other Services
+36,New York,92,410892,344229,66663,2591,9952,886,24741,21276,3465,122,490,45,Public Administration,Public Administration
+36,New York,99,0,0,0,0,0,0,4966,3628,1338,84,178,79,Industries not classified,Industries not classified
+37,North Carolina,11,50151,35393,14758,2465,98,11595,3111,2267,844,91,5,705,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+37,North Carolina,21,4517,4306,211,0,13,103,280,271,9,0,2,1,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+37,North Carolina,22,37985,36029,1956,259,50,647,2178,2087,91,11,6,21,Utilities,Utilities
+37,North Carolina,23,321019,241493,79526,17636,3169,51347,15570,12962,2608,571,119,1563,Construction,Construction
+37,North Carolina,31,547019,473792,73227,10839,3366,25335,29065,25804,3261,397,171,1009,Manufacturing,Manufacturing
+37,North Carolina,42,110255,100240,10015,1210,672,2707,5969,5458,511,52,35,152,Wholesale Trade,Wholesale
+37,North Carolina,44,499884,461221,38663,3377,2856,8069,27997,26070,1927,163,150,315,Retail Trade,Retail
+37,North Carolina,48,170984,156201,14783,1641,1311,2198,8812,8178,634,58,56,84,Transportation and Warehousing,Logistics
+37,North Carolina,51,78086,72998,5088,263,330,512,4291,4001,290,11,18,22,Information,Information
+37,North Carolina,52,211648,189975,21673,933,1135,1130,11374,10362,1012,38,58,47,Finance and Insurance,Finance
+37,North Carolina,53,77109,71453,5656,583,424,933,4447,4174,273,28,22,38,Real Estate and Rental and Leasing,Real Estate
+37,North Carolina,54,289988,253524,36464,987,2001,1726,16787,14915,1872,48,115,63,"Professional, Scientific, and Technical Services",Professional
+37,North Carolina,55,5057,4603,454,0,56,53,301,277,24,0,3,4,Management of Companies and Enterprises,Management
+37,North Carolina,56,190279,158067,32212,6118,2035,16962,10494,9174,1320,236,91,605,Administrative and Support and Waste Management and Remediation Services,Administrative
+37,North Carolina,61,403401,372980,30421,1582,3476,1564,24748,23068,1680,70,185,91,Educational Services,Education
+37,North Carolina,62,622912,581998,40914,2501,3015,4061,34139,32122,2017,116,160,189,Health Care and Social Assistance,Health Care
+37,North Carolina,71,83862,79661,4201,334,741,839,5456,5225,231,15,27,39,"Arts, Entertainment, and Recreation",Arts/Entertainment
+37,North Carolina,72,367325,317550,49775,6379,2606,22045,20056,17865,2191,245,151,818,Accommodation and Food Services,Hospitality
+37,North Carolina,81,212904,185290,27614,3376,2069,6850,11995,10725,1270,143,106,263,Other Services (except Public Administration),Other Services
+37,North Carolina,92,188479,181602,6877,572,444,1403,10965,10589,376,26,29,60,Public Administration,Public Administration
+37,North Carolina,99,0,0,0,0,0,0,2524,2356,168,26,8,44,Industries not classified,Industries not classified
+38,North Dakota,11,20400,19745,655,27,0,186,1899,1866,33,1,0,11,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+38,North Dakota,21,13446,12594,852,8,212,191,613,596,17,1,1,6,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+38,North Dakota,22,5330,5280,50,0,0,0,295,291,4,0,0,0,Utilities,Utilities
+38,North Dakota,23,30948,29515,1433,42,0,644,1586,1561,25,1,0,6,Construction,Construction
+38,North Dakota,31,26691,24484,2207,44,102,86,1502,1439,63,2,1,5,Manufacturing,Manufacturing
+38,North Dakota,42,14392,14026,366,0,0,0,793,784,9,0,0,0,Wholesale Trade,Wholesale
+38,North Dakota,44,41035,39902,1133,0,95,121,2241,2182,59,0,2,7,Retail Trade,Retail
+38,North Dakota,48,15876,14958,918,0,0,85,865,843,22,0,0,3,Transportation and Warehousing,Logistics
+38,North Dakota,51,4221,4093,128,8,0,0,225,219,6,2,0,0,Information,Information
+38,North Dakota,52,18096,16874,1222,0,0,0,867,844,23,0,0,0,Finance and Insurance,Finance
+38,North Dakota,53,4412,4212,200,0,0,0,213,207,6,0,0,1,Real Estate and Rental and Leasing,Real Estate
+38,North Dakota,54,14670,14101,569,0,0,29,697,669,28,0,0,3,"Professional, Scientific, and Technical Services",Professional
+38,North Dakota,55,303,303,0,0,0,0,6,6,0,0,0,0,Management of Companies and Enterprises,Management
+38,North Dakota,56,8780,8166,614,10,146,173,475,460,15,1,2,1,Administrative and Support and Waste Management and Remediation Services,Administrative
+38,North Dakota,61,34245,32177,2068,93,22,0,2133,2037,96,2,3,1,Educational Services,Education
+38,North Dakota,62,60521,57101,3420,35,72,66,3071,2951,120,3,5,3,Health Care and Social Assistance,Health Care
+38,North Dakota,71,5751,5596,155,0,0,0,465,456,9,1,0,0,"Arts, Entertainment, and Recreation",Arts/Entertainment
+38,North Dakota,72,25223,23020,2203,0,228,365,1234,1183,51,0,2,5,Accommodation and Food Services,Hospitality
+38,North Dakota,81,14745,14121,624,17,175,0,892,867,25,1,4,1,Other Services (except Public Administration),Other Services
+38,North Dakota,92,18728,17885,843,0,0,32,1057,1031,26,0,0,1,Public Administration,Public Administration
+38,North Dakota,99,0,0,0,0,0,0,56,53,3,0,0,0,Industries not classified,Industries not classified
+39,Ohio,11,36853,34101,2752,428,149,1789,2549,2396,153,14,3,98,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+39,Ohio,21,13796,13615,181,0,0,40,941,929,12,0,0,2,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+39,Ohio,22,43057,41883,1174,0,0,90,2496,2434,62,0,0,4,Utilities,Utilities
+39,Ohio,23,289592,275785,13807,2518,414,5640,16940,16394,546,77,25,170,Construction,Construction
+39,Ohio,31,800046,751171,48875,2361,2561,4986,46673,44595,2078,72,107,195,Manufacturing,Manufacturing
+39,Ohio,42,137243,129909,7334,265,319,648,7531,7241,290,9,14,22,Wholesale Trade,Wholesale
+39,Ohio,44,576502,552458,24044,667,758,1443,34189,33011,1178,34,38,68,Retail Trade,Retail
+39,Ohio,48,231990,216764,15226,223,377,555,12726,12173,553,13,19,29,Transportation and Warehousing,Logistics
+39,Ohio,51,82792,78961,3831,52,167,96,4765,4592,173,5,8,3,Information,Information
+39,Ohio,52,261312,245877,15435,92,525,437,13636,12951,685,4,28,17,Finance and Insurance,Finance
+39,Ohio,53,73518,71168,2350,62,203,158,4095,3977,118,5,8,7,Real Estate and Rental and Leasing,Real Estate
+39,Ohio,54,292494,268231,24263,287,1116,710,16351,15208,1143,15,47,38,"Professional, Scientific, and Technical Services",Professional
+39,Ohio,55,8285,7929,356,33,37,0,462,439,23,1,2,0,Management of Companies and Enterprises,Management
+39,Ohio,56,204433,191951,12482,1197,763,3310,12696,12149,547,57,30,106,Administrative and Support and Waste Management and Remediation Services,Administrative
+39,Ohio,61,444230,419493,24737,431,824,685,28039,26552,1487,18,64,37,Educational Services,Education
+39,Ohio,62,827023,782274,44749,912,1526,1277,46080,44022,2058,39,80,64,Health Care and Social Assistance,Health Care
+39,Ohio,71,88482,86208,2274,31,175,279,6545,6371,174,5,10,10,"Arts, Entertainment, and Recreation",Arts/Entertainment
+39,Ohio,72,402663,377034,25629,1177,1162,6696,24426,23301,1125,56,47,191,Accommodation and Food Services,Hospitality
+39,Ohio,81,220046,207402,12644,628,793,440,13232,12653,579,29,31,24,Other Services (except Public Administration),Other Services
+39,Ohio,92,198784,194264,4520,239,72,156,11452,11214,238,12,6,10,Public Administration,Public Administration
+39,Ohio,99,0,0,0,0,0,0,2203,2104,99,5,5,5,Industries not classified,Industries not classified
+40,Oklahoma,11,23914,20565,3349,360,0,2465,1777,1603,174,6,2,130,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+40,Oklahoma,21,52983,49046,3937,165,152,2266,2906,2767,139,5,5,85,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+40,Oklahoma,22,20169,19405,764,27,17,500,1092,1060,32,2,1,15,Utilities,Utilities
+40,Oklahoma,23,120573,98810,21763,2309,170,18386,6411,5662,749,64,8,630,Construction,Construction
+40,Oklahoma,31,158606,139038,19568,902,419,10617,8435,7661,774,38,20,417,Manufacturing,Manufacturing
+40,Oklahoma,42,41550,39305,2245,250,75,1262,2101,2001,100,11,4,51,Wholesale Trade,Wholesale
+40,Oklahoma,44,192178,179763,12415,322,446,4408,10291,9801,490,16,18,197,Retail Trade,Retail
+40,Oklahoma,48,68999,65272,3727,224,130,1520,3709,3562,147,11,4,51,Transportation and Warehousing,Logistics
+40,Oklahoma,51,26716,25540,1176,76,159,198,1273,1221,52,3,6,8,Information,Information
+40,Oklahoma,52,63318,61046,2272,164,225,499,3017,2925,92,5,9,25,Finance and Insurance,Finance
+40,Oklahoma,53,24813,23311,1502,238,0,587,1232,1172,60,2,0,26,Real Estate and Rental and Leasing,Real Estate
+40,Oklahoma,54,78665,73172,5493,82,431,812,3677,3503,174,4,16,24,"Professional, Scientific, and Technical Services",Professional
+40,Oklahoma,55,2261,2103,158,0,0,106,88,83,5,0,0,2,Management of Companies and Enterprises,Management
+40,Oklahoma,56,59973,51910,8063,561,123,6160,3244,2935,309,22,6,227,Administrative and Support and Waste Management and Remediation Services,Administrative
+40,Oklahoma,61,151658,142502,9156,349,541,1947,8197,7807,390,11,27,83,Educational Services,Education
+40,Oklahoma,62,216937,203979,12958,458,695,2937,11565,11057,508,15,29,133,Health Care and Social Assistance,Health Care
+40,Oklahoma,71,42230,40746,1484,28,55,489,2613,2526,87,3,5,24,"Arts, Entertainment, and Recreation",Arts/Entertainment
+40,Oklahoma,72,126564,108180,18384,2834,420,10315,7053,6327,726,68,23,403,Accommodation and Food Services,Hospitality
+40,Oklahoma,81,82755,72732,10023,913,279,4087,4386,4022,364,26,10,160,Other Services (except Public Administration),Other Services
+40,Oklahoma,92,102179,98267,3912,75,40,813,5357,5220,137,3,3,34,Public Administration,Public Administration
+40,Oklahoma,99,0,0,0,0,0,0,636,604,32,3,3,13,Industries not classified,Industries not classified
+41,Oregon,11,55716,36829,18887,906,249,16643,3669,2935,734,20,9,639,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+41,Oregon,21,1166,1082,84,0,0,70,92,88,4,0,0,2,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+41,Oregon,22,14798,13755,1043,7,39,111,871,825,46,1,2,6,Utilities,Utilities
+41,Oregon,23,118719,100228,18491,1078,432,12319,6362,5761,601,31,16,340,Construction,Construction
+41,Oregon,31,210058,167098,42960,1688,857,16556,11148,9349,1799,56,40,569,Manufacturing,Manufacturing
+41,Oregon,42,52816,46555,6261,263,223,2755,2805,2521,284,8,8,116,Wholesale Trade,Wholesale
+41,Oregon,44,210849,191604,19245,887,448,6492,12243,11340,903,32,24,247,Retail Trade,Retail
+41,Oregon,48,68331,59644,8687,369,223,1933,3785,3414,371,14,9,74,Transportation and Warehousing,Logistics
+41,Oregon,51,33477,31175,2302,88,89,476,1909,1786,123,4,4,19,Information,Information
+41,Oregon,52,65674,59856,5818,150,305,1086,3610,3340,270,7,13,34,Finance and Insurance,Finance
+41,Oregon,53,35779,32730,3049,232,266,1155,1915,1778,137,7,6,39,Real Estate and Rental and Leasing,Real Estate
+41,Oregon,54,130031,115765,14266,153,637,764,7469,6717,752,13,31,41,"Professional, Scientific, and Technical Services",Professional
+41,Oregon,55,2781,2344,437,0,42,31,149,127,22,0,2,2,Management of Companies and Enterprises,Management
+41,Oregon,56,73618,59221,14397,745,155,10370,4168,3639,529,26,10,317,Administrative and Support and Waste Management and Remediation Services,Administrative
+41,Oregon,61,158995,144321,14674,329,957,2663,10220,9375,845,18,50,138,Educational Services,Education
+41,Oregon,62,269272,240250,29022,988,1109,6475,15138,13740,1398,40,50,267,Health Care and Social Assistance,Health Care
+41,Oregon,71,38953,36441,2512,164,106,568,2730,2595,135,5,6,23,"Arts, Entertainment, and Recreation",Arts/Entertainment
+41,Oregon,72,150431,123833,26598,1589,351,14999,8438,7414,1024,42,19,467,Accommodation and Food Services,Hospitality
+41,Oregon,81,83157,72457,10700,631,166,3489,4914,4429,485,17,14,130,Other Services (except Public Administration),Other Services
+41,Oregon,92,84234,78096,6138,148,462,1797,5382,5075,307,6,21,68,Public Administration,Public Administration
+41,Oregon,99,0,0,0,0,0,0,725,661,64,4,3,17,Industries not classified,Industries not classified
+42,Pennsylvania,11,50878,43482,7396,1008,126,5209,3974,3624,350,29,9,239,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+42,Pennsylvania,21,27191,26224,967,145,14,137,2170,2129,41,8,2,4,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+42,Pennsylvania,22,52646,50463,2183,101,234,67,3324,3225,99,2,6,4,Utilities,Utilities
+42,Pennsylvania,23,347517,321928,25589,3492,2864,5121,21079,20286,793,71,73,124,Construction,Construction
+42,Pennsylvania,31,670701,603160,67541,2715,4615,4876,39788,37263,2525,92,177,175,Manufacturing,Manufacturing
+42,Pennsylvania,42,157129,144087,13042,1072,900,1009,8273,7817,456,25,30,33,Wholesale Trade,Wholesale
+42,Pennsylvania,44,616407,574430,41977,1804,2546,1400,37335,35553,1782,54,98,57,Retail Trade,Retail
+42,Pennsylvania,48,273693,246135,27558,1232,2341,917,15024,14108,916,37,79,33,Transportation and Warehousing,Logistics
+42,Pennsylvania,51,94314,87765,6549,159,469,98,5240,4930,310,6,14,3,Information,Information
+42,Pennsylvania,52,288903,267294,21609,529,864,565,14761,13878,883,8,38,18,Finance and Insurance,Finance
+42,Pennsylvania,53,79529,73878,5651,361,687,145,4152,3917,235,6,27,5,Real Estate and Rental and Leasing,Real Estate
+42,Pennsylvania,54,376025,335938,40087,559,2430,799,19701,17980,1721,26,85,31,"Professional, Scientific, and Technical Services",Professional
+42,Pennsylvania,55,7585,7084,501,20,54,62,403,375,28,1,2,2,Management of Companies and Enterprises,Management
+42,Pennsylvania,56,216155,193256,22899,1823,2462,4871,12111,11309,802,51,84,136,Administrative and Support and Waste Management and Remediation Services,Administrative
+42,Pennsylvania,61,543836,503069,40767,1139,1819,1201,33050,30994,2056,42,90,55,Educational Services,Education
+42,Pennsylvania,62,957076,876432,80644,1556,4299,1743,52167,49041,3126,53,176,67,Health Care and Social Assistance,Health Care
+42,Pennsylvania,71,107234,100777,6457,134,573,722,7866,7528,338,9,28,21,"Arts, Entertainment, and Recreation",Arts/Entertainment
+42,Pennsylvania,72,389770,346419,43351,2676,1818,6637,24147,22453,1694,93,72,177,Accommodation and Food Services,Hospitality
+42,Pennsylvania,81,259725,231910,27815,612,3073,1411,15033,13948,1085,26,96,58,Other Services (except Public Administration),Other Services
+42,Pennsylvania,92,229344,220438,8906,230,703,189,13723,13325,398,11,29,12,Public Administration,Public Administration
+42,Pennsylvania,99,0,0,0,0,0,0,2328,2142,186,6,19,8,Industries not classified,Industries not classified
+44,Rhode Island,11,2128,1813,315,48,23,43,126,112,14,3,1,1,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+44,Rhode Island,21,56,56,0,0,0,0,7,7,0,0,0,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+44,Rhode Island,22,2655,2461,194,46,13,0,157,147,10,1,1,0,Utilities,Utilities
+44,Rhode Island,23,27583,23639,3944,1050,531,217,1411,1246,165,31,25,9,Construction,Construction
+44,Rhode Island,31,51774,38233,13541,2643,1473,279,2717,2125,592,84,66,18,Manufacturing,Manufacturing
+44,Rhode Island,42,12463,10742,1721,248,98,35,680,597,83,11,6,2,Wholesale Trade,Wholesale
+44,Rhode Island,44,57578,50543,7035,932,562,165,3198,2874,324,32,32,4,Retail Trade,Retail
+44,Rhode Island,48,17323,13568,3755,754,201,99,923,776,147,23,13,3,Transportation and Warehousing,Logistics
+44,Rhode Island,51,7589,6816,773,135,173,0,450,412,38,5,3,0,Information,Information
+44,Rhode Island,52,26638,23340,3298,130,401,41,1499,1344,155,6,16,3,Finance and Insurance,Finance
+44,Rhode Island,53,7040,6026,1014,104,163,0,398,350,48,5,6,0,Real Estate and Rental and Leasing,Real Estate
+44,Rhode Island,54,31248,27009,4239,367,210,22,1902,1686,216,11,15,1,"Professional, Scientific, and Technical Services",Professional
+44,Rhode Island,55,1190,830,360,0,114,0,59,52,7,0,1,0,Management of Companies and Enterprises,Management
+44,Rhode Island,56,19268,14131,5137,2028,546,210,1008,779,229,64,29,10,Administrative and Support and Waste Management and Remediation Services,Administrative
+44,Rhode Island,61,55562,49007,6555,306,427,243,3528,3158,370,13,27,9,Educational Services,Education
+44,Rhode Island,62,81268,67544,13724,605,886,119,4410,3764,646,28,52,8,Health Care and Social Assistance,Health Care
+44,Rhode Island,71,13104,11845,1259,78,38,9,970,899,71,3,3,5,"Arts, Entertainment, and Recreation",Arts/Entertainment
+44,Rhode Island,72,39926,32896,7030,1457,469,202,2491,2185,306,44,24,7,Accommodation and Food Services,Hospitality
+44,Rhode Island,81,20271,16644,3627,376,406,123,1143,978,165,13,15,8,Other Services (except Public Administration),Other Services
+44,Rhode Island,92,20438,18882,1556,90,216,0,1179,1102,77,6,6,0,Public Administration,Public Administration
+44,Rhode Island,99,0,0,0,0,0,0,213,167,46,8,3,0,Industries not classified,Industries not classified
+45,South Carolina,11,17501,13851,3650,384,6,2747,1076,896,180,11,4,135,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+45,South Carolina,21,2064,2027,37,15,0,8,111,108,3,1,0,1,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+45,South Carolina,22,25654,25092,562,56,70,76,1519,1486,33,3,2,6,Utilities,Utilities
+45,South Carolina,23,144941,120430,24511,5277,1523,15185,7491,6665,826,157,57,471,Construction,Construction
+45,South Carolina,31,292935,272244,20691,1708,2370,4859,15473,14477,996,57,108,218,Manufacturing,Manufacturing
+45,South Carolina,42,51135,48514,2621,282,284,695,2854,2720,134,13,17,23,Wholesale Trade,Wholesale
+45,South Carolina,44,245068,234130,10938,662,872,2172,14007,13419,588,38,51,96,Retail Trade,Retail
+45,South Carolina,48,82448,79275,3173,241,248,407,4366,4199,167,12,13,19,Transportation and Warehousing,Logistics
+45,South Carolina,51,33722,32350,1372,41,124,156,1857,1791,66,2,3,7,Information,Information
+45,South Carolina,52,83285,79750,3535,146,396,273,4563,4382,181,9,16,16,Finance and Insurance,Finance
+45,South Carolina,53,38368,36628,1740,205,367,368,2131,2052,79,7,12,13,Real Estate and Rental and Leasing,Real Estate
+45,South Carolina,54,110053,103929,6124,335,396,382,6420,6071,349,11,22,22,"Professional, Scientific, and Technical Services",Professional
+45,South Carolina,55,1856,1591,265,0,13,97,99,91,8,0,1,3,Management of Companies and Enterprises,Management
+45,South Carolina,56,103126,92643,10483,2274,935,5414,5734,5329,405,69,44,180,Administrative and Support and Waste Management and Remediation Services,Administrative
+45,South Carolina,61,187721,176693,11028,266,980,1003,11795,11149,646,20,63,39,Educational Services,Education
+45,South Carolina,62,274338,262531,11807,399,1315,669,15263,14651,612,25,63,30,Health Care and Social Assistance,Health Care
+45,South Carolina,71,34631,33228,1403,77,305,359,2587,2492,95,4,15,19,"Arts, Entertainment, and Recreation",Arts/Entertainment
+45,South Carolina,72,188933,171216,17717,1717,1234,5340,10854,10065,789,70,66,207,Accommodation and Food Services,Hospitality
+45,South Carolina,81,105952,96282,9670,1376,1093,2190,6038,5638,400,48,47,79,Other Services (except Public Administration),Other Services
+45,South Carolina,92,94629,92057,2572,181,486,202,5591,5450,141,6,20,7,Public Administration,Public Administration
+45,South Carolina,99,0,0,0,0,0,0,1045,998,47,5,4,16,Industries not classified,Industries not classified
+46,South Dakota,11,23013,21944,1069,295,82,535,1873,1812,61,14,2,32,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+46,South Dakota,21,2062,2062,0,0,0,0,97,96,1,0,0,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+46,South Dakota,22,4329,4087,242,0,0,0,250,245,5,0,0,1,Utilities,Utilities
+46,South Dakota,23,30320,29094,1226,672,0,251,1655,1620,35,11,0,7,Construction,Construction
+46,South Dakota,31,42689,36570,6119,457,0,497,2120,1960,160,14,0,23,Manufacturing,Manufacturing
+46,South Dakota,42,13077,12608,469,52,0,220,694,676,18,6,0,4,Wholesale Trade,Wholesale
+46,South Dakota,44,44078,42912,1166,224,23,36,2440,2388,52,6,1,5,Retail Trade,Retail
+46,South Dakota,48,13155,12349,806,28,4,35,788,769,19,3,1,1,Transportation and Warehousing,Logistics
+46,South Dakota,51,5465,5410,55,0,0,0,316,310,6,1,0,2,Information,Information
+46,South Dakota,52,26845,26217,628,2,72,34,1206,1179,27,1,3,2,Finance and Insurance,Finance
+46,South Dakota,53,4745,4745,0,0,0,0,228,226,2,0,0,0,Real Estate and Rental and Leasing,Real Estate
+46,South Dakota,54,15559,15282,277,0,0,0,749,733,16,0,0,0,"Professional, Scientific, and Technical Services",Professional
+46,South Dakota,55,283,283,0,0,0,0,13,13,0,0,0,0,Management of Companies and Enterprises,Management
+46,South Dakota,56,10335,9960,375,56,0,164,564,546,18,4,0,5,Administrative and Support and Waste Management and Remediation Services,Administrative
+46,South Dakota,61,35530,33912,1618,0,189,15,2147,2080,67,0,4,4,Educational Services,Education
+46,South Dakota,62,65531,62610,2921,70,4,36,3358,3264,94,4,2,5,Health Care and Social Assistance,Health Care
+46,South Dakota,71,8507,8423,84,0,0,0,684,677,7,0,0,0,"Arts, Entertainment, and Recreation",Arts/Entertainment
+46,South Dakota,72,28146,26467,1679,151,0,194,1546,1475,71,7,1,9,Accommodation and Food Services,Hospitality
+46,South Dakota,81,17749,17013,736,0,18,73,1020,990,30,2,2,4,Other Services (except Public Administration),Other Services
+46,South Dakota,92,18325,18058,267,51,0,48,1063,1049,14,2,0,2,Public Administration,Public Administration
+46,South Dakota,99,0,0,0,0,0,0,140,137,3,0,0,1,Industries not classified,Industries not classified
+47,Tennessee,11,22810,19014,3796,194,23,3244,1635,1453,182,11,2,148,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+47,Tennessee,21,4997,4782,215,0,21,156,313,304,9,0,1,4,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+47,Tennessee,22,30345,29925,420,90,38,23,1888,1866,22,4,2,1,Utilities,Utilities
+47,Tennessee,23,191253,159230,32023,8890,473,20178,10166,9050,1116,292,26,667,Construction,Construction
+47,Tennessee,31,374271,346069,28202,2820,1188,7650,21062,19817,1245,112,69,303,Manufacturing,Manufacturing
+47,Tennessee,42,75288,71158,4130,335,247,946,3929,3740,189,14,11,40,Wholesale Trade,Wholesale
+47,Tennessee,44,333069,314940,18129,1154,609,2191,19290,18442,848,48,38,103,Retail Trade,Retail
+47,Tennessee,48,166297,156351,9946,821,514,1357,8499,8117,382,36,19,56,Transportation and Warehousing,Logistics
+47,Tennessee,51,47724,46039,1685,39,110,206,2736,2640,96,4,7,17,Information,Information
+47,Tennessee,52,118317,113120,5197,138,550,250,6526,6280,246,10,22,16,Finance and Insurance,Finance
+47,Tennessee,53,48978,46596,2382,192,86,651,2606,2493,113,5,5,27,Real Estate and Rental and Leasing,Real Estate
+47,Tennessee,54,149322,140044,9278,111,484,668,8685,8190,495,7,28,31,"Professional, Scientific, and Technical Services",Professional
+47,Tennessee,55,6067,5827,240,0,0,10,313,300,13,1,0,1,Management of Companies and Enterprises,Management
+47,Tennessee,56,135255,120865,14390,2991,355,7685,7637,7048,589,111,15,280,Administrative and Support and Waste Management and Remediation Services,Administrative
+47,Tennessee,61,241345,228960,12385,437,606,478,15042,14331,711,24,42,31,Educational Services,Education
+47,Tennessee,62,415050,393424,21626,827,1139,1986,23356,22283,1073,44,63,87,Health Care and Social Assistance,Health Care
+47,Tennessee,71,52003,50203,1800,116,286,135,3339,3207,132,9,23,9,"Arts, Entertainment, and Recreation",Arts/Entertainment
+47,Tennessee,72,241212,215033,26179,3581,808,10742,13617,12494,1123,139,51,397,Accommodation and Food Services,Hospitality
+47,Tennessee,81,134645,122476,12169,1287,452,2875,7934,7370,564,64,22,127,Other Services (except Public Administration),Other Services
+47,Tennessee,92,120036,116890,3146,188,151,145,6920,6741,179,6,13,8,Public Administration,Public Administration
+47,Tennessee,99,0,0,0,0,0,0,1482,1416,66,10,7,11,Industries not classified,Industries not classified
+48,Texas,11,93649,65597,28052,1775,162,23809,7001,5438,1563,91,20,1285,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+48,Texas,21,278661,221110,57551,2584,4736,24227,14382,11900,2482,84,187,1078,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+48,Texas,22,110050,93711,16339,1154,593,8756,6127,5417,710,53,27,349,Utilities,Utilities
+48,Texas,23,1108482,647716,460766,70686,6841,357023,49705,33404,16301,2185,246,12671,Construction,Construction
+48,Texas,31,1044712,760836,283876,24033,9421,149279,55035,42103,12932,907,416,6550,Manufacturing,Manufacturing
+48,Texas,42,360768,286304,74464,6672,3131,38859,17935,14662,3273,257,134,1642,Wholesale Trade,Wholesale
+48,Texas,44,1391894,1140875,251019,24009,8112,116215,73978,62599,11379,926,351,5173,Retail Trade,Retail
+48,Texas,48,629554,491387,138167,16659,5871,63518,30765,25062,5703,578,211,2748,Transportation and Warehousing,Logistics
+48,Texas,51,216083,184279,31804,2013,1227,8764,11814,10233,1581,77,71,406,Information,Information
+48,Texas,52,580236,501804,78432,3942,3807,24193,30477,26612,3865,164,193,1147,Finance and Insurance,Finance
+48,Texas,53,250762,210165,40597,5164,2297,19990,13168,11301,1867,200,88,841,Real Estate and Rental and Leasing,Real Estate
+48,Texas,54,834350,675249,159101,4899,8218,28205,46587,38465,8122,224,439,1354,"Professional, Scientific, and Technical Services",Professional
+48,Texas,55,20608,17823,2785,50,227,357,1089,937,152,3,10,27,Management of Companies and Enterprises,Management
+48,Texas,56,578865,397485,181380,29317,4474,122535,29058,21641,7417,1073,211,4868,Administrative and Support and Waste Management and Remediation Services,Administrative
+48,Texas,61,1172928,991383,181545,9633,10856,80273,69579,59885,9694,472,576,4055,Educational Services,Education
+48,Texas,62,1513383,1235685,277698,15418,10116,96791,80219,66991,13228,709,482,4803,Health Care and Social Assistance,Health Care
+48,Texas,71,194227,171003,23224,1634,1314,11511,12050,10913,1137,73,63,499,"Arts, Entertainment, and Recreation",Arts/Entertainment
+48,Texas,72,997811,727288,270523,40519,6991,165376,52361,40953,11408,1404,297,6782,Accommodation and Food Services,Hospitality
+48,Texas,81,636951,439100,197851,23734,5497,103825,33708,25183,8525,872,263,4374,Other Services (except Public Administration),Other Services
+48,Texas,92,500073,456434,43639,1957,1471,18138,28572,26367,2205,96,98,897,Public Administration,Public Administration
+48,Texas,99,0,0,0,0,0,0,5037,4131,906,75,35,423,Industries not classified,Industries not classified
+49,Utah,11,10829,9153,1676,94,111,1341,889,798,91,7,6,64,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+49,Utah,21,13614,12672,942,51,158,393,802,761,41,3,8,14,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+49,Utah,22,9524,9296,228,26,0,73,598,583,15,2,0,5,Utilities,Utilities
+49,Utah,23,104432,84426,20006,1760,1487,14633,5156,4544,612,54,57,411,Construction,Construction
+49,Utah,31,146974,119562,27412,2006,3242,13041,7718,6623,1095,78,121,467,Manufacturing,Manufacturing
+49,Utah,42,34778,31707,3071,274,594,1356,1845,1712,133,14,22,47,Wholesale Trade,Wholesale
+49,Utah,44,164191,149722,14469,691,1962,5414,9041,8433,608,29,91,192,Retail Trade,Retail
+49,Utah,48,59410,52353,7057,858,1028,2138,3090,2841,249,22,38,77,Transportation and Warehousing,Logistics
+49,Utah,51,29826,27827,1999,169,412,404,1679,1596,83,5,14,12,Information,Information
+49,Utah,52,72516,66280,6236,490,1063,1689,3618,3380,238,13,49,54,Finance and Insurance,Finance
+49,Utah,53,26951,25250,1701,52,394,607,1438,1358,80,2,16,20,Real Estate and Rental and Leasing,Real Estate
+49,Utah,54,106244,98403,7841,320,937,1233,6077,5652,425,15,62,53,"Professional, Scientific, and Technical Services",Professional
+49,Utah,55,1984,1747,237,0,17,63,101,93,8,0,1,3,Management of Companies and Enterprises,Management
+49,Utah,56,69759,56713,13046,1345,2278,7376,3739,3269,470,47,86,224,Administrative and Support and Waste Management and Remediation Services,Administrative
+49,Utah,61,152446,140476,11970,361,1609,2252,10083,9389,694,20,90,88,Educational Services,Education
+49,Utah,62,163346,150803,12543,1105,1764,3245,9117,8544,573,46,85,131,Health Care and Social Assistance,Health Care
+49,Utah,71,31438,29963,1475,0,169,526,2167,2085,82,0,10,22,"Arts, Entertainment, and Recreation",Arts/Entertainment
+49,Utah,72,98191,80091,18100,988,1405,10815,5510,4828,682,41,60,346,Accommodation and Food Services,Hospitality
+49,Utah,81,62270,54077,8193,590,865,3299,3581,3243,338,31,42,117,Other Services (except Public Administration),Other Services
+49,Utah,92,66835,63924,2911,204,309,583,3821,3686,135,6,17,21,Public Administration,Public Administration
+49,Utah,99,0,0,0,0,0,0,407,375,32,1,4,10,Industries not classified,Industries not classified
+50,Vermont,11,7244,6815,429,0,0,352,535,514,21,0,0,10,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+50,Vermont,21,654,638,16,0,0,0,33,32,1,0,0,0,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+50,Vermont,22,1585,1557,28,0,22,0,117,115,2,0,1,0,Utilities,Utilities
+50,Vermont,23,21770,21282,488,0,16,0,1411,1387,24,0,1,1,Construction,Construction
+50,Vermont,31,31813,30271,1542,0,18,0,1809,1733,76,0,2,0,Manufacturing,Manufacturing
+50,Vermont,42,5937,5525,412,0,0,12,292,281,11,0,0,1,Wholesale Trade,Wholesale
+50,Vermont,44,36336,34834,1502,0,71,27,2055,1989,66,0,5,2,Retail Trade,Retail
+50,Vermont,48,8025,7548,477,0,0,0,457,438,19,0,1,0,Transportation and Warehousing,Logistics
+50,Vermont,51,5794,5499,295,0,0,0,317,306,11,0,0,0,Information,Information
+50,Vermont,52,9693,8997,696,0,0,0,529,509,20,0,0,0,Finance and Insurance,Finance
+50,Vermont,53,4842,4460,382,0,144,0,238,229,9,0,2,0,Real Estate and Rental and Leasing,Real Estate
+50,Vermont,54,18579,17711,868,0,0,11,1006,962,44,0,0,3,"Professional, Scientific, and Technical Services",Professional
+50,Vermont,55,44,44,0,0,0,0,4,4,0,0,0,0,Management of Companies and Enterprises,Management
+50,Vermont,56,9200,8890,310,0,70,15,555,534,21,0,2,2,Administrative and Support and Waste Management and Remediation Services,Administrative
+50,Vermont,61,37346,35261,2085,0,156,23,2329,2205,124,0,8,2,Educational Services,Education
+50,Vermont,62,48207,44952,3255,13,67,138,2516,2403,113,1,4,3,Health Care and Social Assistance,Health Care
+50,Vermont,71,7746,7356,390,0,0,0,630,606,24,0,1,0,"Arts, Entertainment, and Recreation",Arts/Entertainment
+50,Vermont,72,23022,21665,1357,0,0,143,1348,1290,58,0,1,5,Accommodation and Food Services,Hospitality
+50,Vermont,81,12054,11643,411,0,11,0,735,707,28,0,1,0,Other Services (except Public Administration),Other Services
+50,Vermont,92,12688,12239,449,0,0,0,759,738,21,0,0,0,Public Administration,Public Administration
+50,Vermont,99,0,0,0,0,0,0,55,52,3,1,0,0,Industries not classified,Industries not classified
+51,Virginia,11,25926,21556,4370,1097,225,2668,1604,1422,182,32,7,124,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+51,Virginia,21,7382,7011,371,77,61,63,492,476,16,2,2,3,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+51,Virginia,22,28988,26711,2277,227,432,53,1606,1493,113,8,16,3,Utilities,Utilities
+51,Virginia,23,267224,190462,76762,42362,9542,12853,12762,10395,2367,1049,327,360,Construction,Construction
+51,Virginia,31,270954,241290,29664,4357,1822,3071,14987,13545,1442,167,91,123,Manufacturing,Manufacturing
+51,Virginia,42,67892,60192,7700,1049,592,630,3663,3301,362,36,37,22,Wholesale Trade,Wholesale
+51,Virginia,44,394010,336178,57832,8212,4895,1887,22369,19555,2814,293,233,85,Retail Trade,Retail
+51,Virginia,48,144116,115028,29088,3968,2614,928,7230,6039,1191,120,108,23,Transportation and Warehousing,Logistics
+51,Virginia,51,75852,64221,11631,614,874,197,4396,3781,615,27,51,8,Information,Information
+51,Virginia,52,170720,143281,27439,1529,2485,502,9423,8006,1417,73,128,24,Finance and Insurance,Finance
+51,Virginia,53,71628,59045,12583,1920,1442,529,4000,3389,611,66,67,18,Real Estate and Rental and Leasing,Real Estate
+51,Virginia,54,438109,354483,83626,2766,4935,1450,25833,21435,4398,128,268,63,"Professional, Scientific, and Technical Services",Professional
+51,Virginia,55,4673,4073,600,0,71,0,271,240,31,0,4,0,Management of Companies and Enterprises,Management
+51,Virginia,56,157763,121363,36400,18529,4595,2685,8644,7227,1417,560,207,121,Administrative and Support and Waste Management and Remediation Services,Administrative
+51,Virginia,61,380459,336490,43969,3873,4536,1339,23985,21372,2613,166,252,68,Educational Services,Education
+51,Virginia,62,482042,409777,72265,7064,7175,1848,26373,22796,3577,287,345,86,Health Care and Social Assistance,Health Care
+51,Virginia,71,73173,65202,7971,1233,742,767,5532,5116,416,40,47,20,"Arts, Entertainment, and Recreation",Arts/Entertainment
+51,Virginia,72,287350,220390,66960,22512,6407,4948,16505,13645,2860,662,270,184,Accommodation and Food Services,Hospitality
+51,Virginia,81,198717,154649,44068,7769,5580,1732,11511,9370,2141,291,251,81,Other Services (except Public Administration),Other Services
+51,Virginia,92,347310,311279,36031,2169,3032,580,19883,17964,1919,100,162,35,Public Administration,Public Administration
+51,Virginia,99,0,0,0,0,0,0,1500,1289,211,41,15,10,Industries not classified,Industries not classified
+53,Washington,11,82824,40318,42506,1501,272,38840,5291,3381,1910,57,12,1704,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+53,Washington,21,3216,2936,280,0,15,112,222,205,17,0,1,4,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+53,Washington,22,26475,24444,2031,0,47,274,1582,1491,91,0,4,11,Utilities,Utilities
+53,Washington,23,239052,196813,42239,3664,1151,22846,12878,11237,1641,109,38,773,Construction,Construction
+53,Washington,31,332100,268093,64007,1525,1174,15437,18397,15288,3109,60,50,622,Manufacturing,Manufacturing
+53,Washington,42,93707,77239,16468,761,296,5544,5095,4301,794,28,16,281,Wholesale Trade,Wholesale
+53,Washington,44,384793,321644,63149,1140,1671,10147,21815,18916,2899,53,76,424,Retail Trade,Retail
+53,Washington,48,157349,123788,33561,434,374,7472,8579,7083,1496,23,24,279,Transportation and Warehousing,Logistics
+53,Washington,51,75793,61386,14407,202,438,970,4189,3468,721,6,24,42,Information,Information
+53,Washington,52,108520,95248,13272,63,414,1328,6049,5342,707,3,19,55,Finance and Insurance,Finance
+53,Washington,53,67450,58008,9442,295,453,1835,3717,3258,459,11,22,66,Real Estate and Rental and Leasing,Real Estate
+53,Washington,54,315267,239733,75534,650,2200,3111,17060,13375,3685,26,113,147,"Professional, Scientific, and Technical Services",Professional
+53,Washington,55,5314,4500,814,109,30,25,258,218,40,1,1,1,Management of Companies and Enterprises,Management
+53,Washington,56,129654,97619,32035,3100,1006,13715,7470,6150,1320,81,45,484,Administrative and Support and Waste Management and Remediation Services,Administrative
+53,Washington,61,282446,250675,31771,904,1076,3938,17789,15957,1832,38,60,196,Educational Services,Education
+53,Washington,62,446546,364298,82248,2013,1828,11618,25123,21084,4039,95,84,494,Health Care and Social Assistance,Health Care
+53,Washington,71,78049,68353,9696,316,214,1046,5392,4846,546,8,13,57,"Arts, Entertainment, and Recreation",Arts/Entertainment
+53,Washington,72,240761,187742,53019,3070,909,21317,13801,11372,2429,93,48,824,Accommodation and Food Services,Hospitality
+53,Washington,81,155336,128408,26928,684,1013,5913,8904,7587,1317,33,45,241,Other Services (except Public Administration),Other Services
+53,Washington,92,170087,154712,15375,273,464,1934,10445,9654,791,15,22,84,Public Administration,Public Administration
+53,Washington,99,0,0,0,0,0,0,1342,1141,201,5,1,34,Industries not classified,Industries not classified
+54,West Virginia,11,4608,4360,248,81,13,137,315,308,7,3,1,2,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+54,West Virginia,21,22654,22508,146,56,38,12,1385,1377,8,1,1,1,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+54,West Virginia,22,10877,10861,16,7,9,0,629,626,3,1,1,0,Utilities,Utilities
+54,West Virginia,23,45662,45010,652,180,175,39,2746,2717,29,6,4,3,Construction,Construction
+54,West Virginia,31,55562,54525,1037,87,24,79,3103,3056,47,1,2,3,Manufacturing,Manufacturing
+54,West Virginia,42,15330,15153,177,0,22,0,795,785,10,0,3,0,Wholesale Trade,Wholesale
+54,West Virginia,44,83497,82645,852,0,119,54,5164,5106,58,0,4,3,Retail Trade,Retail
+54,West Virginia,48,28243,27858,385,40,0,64,1624,1603,21,1,0,1,Transportation and Warehousing,Logistics
+54,West Virginia,51,9526,9276,250,13,50,0,566,552,14,1,1,0,Information,Information
+54,West Virginia,52,19705,19523,182,0,28,0,1096,1086,10,0,1,0,Finance and Insurance,Finance
+54,West Virginia,53,8205,8173,32,0,0,0,457,451,6,0,0,0,Real Estate and Rental and Leasing,Real Estate
+54,West Virginia,54,29199,28482,717,0,11,40,1664,1620,44,0,4,2,"Professional, Scientific, and Technical Services",Professional
+54,West Virginia,55,286,249,37,0,0,0,17,15,2,0,0,0,Management of Companies and Enterprises,Management
+54,West Virginia,56,24701,23969,732,93,75,171,1541,1511,30,3,4,5,Administrative and Support and Waste Management and Remediation Services,Administrative
+54,West Virginia,61,67624,64617,3007,130,186,22,4145,3995,150,3,13,1,Educational Services,Education
+54,West Virginia,62,123502,120421,3081,120,87,88,7039,6880,159,6,7,9,Health Care and Social Assistance,Health Care
+54,West Virginia,71,10784,10417,367,0,12,93,888,863,25,0,2,1,"Arts, Entertainment, and Recreation",Arts/Entertainment
+54,West Virginia,72,54235,52763,1472,26,175,100,3472,3391,81,3,2,7,Accommodation and Food Services,Hospitality
+54,West Virginia,81,29137,28415,722,25,59,59,1749,1703,46,1,3,6,Other Services (except Public Administration),Other Services
+54,West Virginia,92,48805,48423,382,0,33,0,2782,2755,27,1,2,0,Public Administration,Public Administration
+54,West Virginia,99,0,0,0,0,0,0,405,404,1,1,0,0,Industries not classified,Industries not classified
+55,Wisconsin,11,58148,51083,7065,995,159,5420,6020,5688,332,34,8,244,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+55,Wisconsin,21,4182,4026,156,0,0,138,340,336,4,0,0,2,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+55,Wisconsin,22,20747,20268,479,35,46,0,1358,1341,17,2,1,0,Utilities,Utilities
+55,Wisconsin,23,167436,159982,7454,499,248,5022,10977,10749,228,9,9,126,Construction,Construction
+55,Wisconsin,31,504243,464440,39803,1010,1176,18368,28812,27482,1330,34,44,565,Manufacturing,Manufacturing
+55,Wisconsin,42,74022,70474,3548,418,22,999,3923,3821,102,5,3,32,Wholesale Trade,Wholesale
+55,Wisconsin,44,301947,288240,13707,653,549,4007,16651,16214,437,20,26,100,Retail Trade,Retail
+55,Wisconsin,48,105492,101015,4477,43,134,1138,6049,5909,140,3,5,38,Transportation and Warehousing,Logistics
+55,Wisconsin,51,44701,42473,2228,129,35,182,2277,2215,62,1,1,7,Information,Information
+55,Wisconsin,52,139818,133251,6567,210,273,637,6958,6749,209,6,6,19,Finance and Insurance,Finance
+55,Wisconsin,53,32600,30639,1961,59,5,538,1635,1585,50,1,1,11,Real Estate and Rental and Leasing,Real Estate
+55,Wisconsin,54,137391,126338,11053,432,312,438,6527,6187,340,7,11,17,"Professional, Scientific, and Technical Services",Professional
+55,Wisconsin,55,4838,4676,162,0,23,0,198,193,5,0,1,0,Management of Companies and Enterprises,Management
+55,Wisconsin,56,93653,82248,11405,219,476,8069,4970,4661,309,12,14,191,Administrative and Support and Waste Management and Remediation Services,Administrative
+55,Wisconsin,61,243282,229325,13957,194,724,1468,13811,13235,576,10,32,69,Educational Services,Education
+55,Wisconsin,62,420357,400243,20114,351,672,2601,22421,21721,700,17,24,84,Health Care and Social Assistance,Health Care
+55,Wisconsin,71,50116,48357,1759,194,12,319,3355,3276,79,2,1,11,"Arts, Entertainment, and Recreation",Arts/Entertainment
+55,Wisconsin,72,193751,179011,14740,275,600,7752,10388,9870,518,15,22,190,Accommodation and Food Services,Hospitality
+55,Wisconsin,81,111035,103549,7486,369,205,1950,6331,6071,260,12,17,53,Other Services (except Public Administration),Other Services
+55,Wisconsin,92,97222,94588,2634,5,162,560,5790,5692,98,2,7,18,Public Administration,Public Administration
+55,Wisconsin,99,0,0,0,0,0,0,562,533,29,1,2,10,Industries not classified,Industries not classified
+56,Wyoming,11,7755,7458,297,0,5,211,611,591,20,0,1,9,"Agriculture, Forestry, Fishing and Hunting",Agriculture
+56,Wyoming,21,21776,21165,611,46,58,368,1108,1082,26,2,2,12,"Mining, Quarrying, and Oil and Gas Extraction",Mining
+56,Wyoming,22,4084,4076,8,0,0,0,257,256,1,0,0,0,Utilities,Utilities
+56,Wyoming,23,22641,21113,1528,134,0,1334,1185,1132,53,8,0,38,Construction,Construction
+56,Wyoming,31,10110,9635,475,6,64,94,600,578,22,1,1,11,Manufacturing,Manufacturing
+56,Wyoming,42,5165,5129,36,0,0,28,282,279,3,0,0,1,Wholesale Trade,Wholesale
+56,Wyoming,44,28532,27336,1196,85,32,489,1576,1522,54,2,2,16,Retail Trade,Retail
+56,Wyoming,48,12205,12048,157,0,60,39,733,726,7,0,2,1,Transportation and Warehousing,Logistics
+56,Wyoming,51,4185,4088,97,0,0,24,235,227,8,0,0,1,Information,Information
+56,Wyoming,52,6498,6431,67,0,0,0,376,373,3,0,0,0,Finance and Insurance,Finance
+56,Wyoming,53,3770,3685,85,0,0,7,196,192,4,0,0,2,Real Estate and Rental and Leasing,Real Estate
+56,Wyoming,54,10698,10395,303,17,0,106,579,564,15,1,0,3,"Professional, Scientific, and Technical Services",Professional
+56,Wyoming,55,86,86,0,0,0,0,4,4,0,0,0,0,Management of Companies and Enterprises,Management
+56,Wyoming,56,7541,6936,605,11,0,563,407,389,18,1,0,12,Administrative and Support and Waste Management and Remediation Services,Administrative
+56,Wyoming,61,30284,28825,1459,94,50,238,1895,1828,67,4,3,6,Educational Services,Education
+56,Wyoming,62,34565,33255,1310,58,82,430,1981,1924,57,2,4,13,Health Care and Social Assistance,Health Care
+56,Wyoming,71,5293,5217,76,0,0,0,414,404,10,0,0,0,"Arts, Entertainment, and Recreation",Arts/Entertainment
+56,Wyoming,72,23608,21475,2133,58,95,1140,1288,1199,89,3,4,43,Accommodation and Food Services,Hospitality
+56,Wyoming,81,11891,11405,486,25,0,231,638,614,24,2,0,11,Other Services (except Public Administration),Other Services
+56,Wyoming,92,17386,16884,502,0,19,28,1010,987,23,0,2,1,Public Administration,Public Administration
+56,Wyoming,99,0,0,0,0,0,0,50,47,3,0,0,2,Industries not classified,Industries not classified

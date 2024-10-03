@@ -1,0 +1,14 @@
+Read me for info about the file czone_ERS_main_state90.csv
+
+
+We created this file on script 202109_labor_shortage metrics. 
+
+The file shows each USDA ERS commuting zones 1990 next to the fips code and name of the State accounting for the
+largest proportion of its population.
+
+Additionally, the file shows the number of states covered by the commuting zone, and all the abbreviations of these.
+
+As inputs, we used:
+-raw/czone_pennstate/czone90_shapefiles/counties90.shp
+-raw/crosswalks/all-geocodes-v2020.xlsx
+- urbnmapr::states, a data.frame of state fips and abbreviations from the urbnmapr R package

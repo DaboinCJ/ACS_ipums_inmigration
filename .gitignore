@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/raw/acs_ipums/*
+/data/acs_output/puma_sector_soc_acs_data_2015_2019.csv
